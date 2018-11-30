@@ -47,6 +47,10 @@ const colorFromJP = s => {
       return "purple";
     case "青":
       return "blue";
+    case "緑":
+      return "green";
+    case "黄色":
+      return "yellow";
     case "水色":
       return "light_blue";
     case "ピンク":
@@ -74,6 +78,8 @@ const brandFromURIPath = s => {
       return "SecretAlice";
     case "logo-universequeen.png":
       return "UniverseQueen";
+    case "logo-prismstone.png":
+      return "PrismStone";
     case "%brand%":
       return "";
     default:
@@ -155,7 +161,7 @@ const getItemsOfSeries = async series => {
   let items = [];
   for (let i = 0; i < series.itemNOs.length; i++) {
     const itemNO = series.itemNOs[i];
-    console.error(`Downloading... (${i+1}/${series.itemNOs.length})`);
+    console.error(`Downloading... (${i + 1}/${series.itemNOs.length})`);
 
     const item = await getBasicInfo(itemNO, series.name, series.limited);
     items.push(item);
