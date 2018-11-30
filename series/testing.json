@@ -1,6 +1,6 @@
 {
   "series": "testing",
-  "limited": ["testing"],
+  "limited": ["testing", "a", "b"],
   "itemNOs": [
     "70423"
   ]

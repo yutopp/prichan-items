@@ -151,14 +151,14 @@ const getBasicInfo = async (itemNO, series, limited) => {
   };
 };
 
-const crawlItemOrder = async itemOrder => {
+const getItemsOfSeries = async series => {
   let items = [];
-  for (let i = 0; i < itemOrder.itemNOs.length; i++) {
-    const itemNO = itemOrder.itemNOs[i];
+  for (let i = 0; i < series.itemNOs.length; i++) {
+    const itemNO = series.itemNOs[i];
     const item = await getBasicInfo(
       itemNO,
-      itemOrder.series,
-      itemOrder.limited
+      series.name,
+      series.limited
     );
     items.push(item);
 
@@ -176,8 +176,8 @@ const crawlItemOrder = async itemOrder => {
 
   const filePath = process.argv[2];
 
-  const itemOrder = JSON.parse(fs.readFileSync(filePath, "utf8"));
-  const items = await crawlItemOrder(itemOrder);
+  const series = JSON.parse(fs.readFileSync(filePath, "utf8"));
+  const items = await getItemsOfSeries(series);
 
   console.log(JSON.stringify(items, null, "  "));
 })();
