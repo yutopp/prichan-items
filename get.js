@@ -155,11 +155,9 @@ const getItemsOfSeries = async series => {
   let items = [];
   for (let i = 0; i < series.itemNOs.length; i++) {
     const itemNO = series.itemNOs[i];
-    const item = await getBasicInfo(
-      itemNO,
-      series.name,
-      series.limited
-    );
+    console.error(`Downloading... (${i+1}/${series.itemNOs.length})`);
+
+    const item = await getBasicInfo(itemNO, series.name, series.limited);
     items.push(item);
 
     await sleep(500);
