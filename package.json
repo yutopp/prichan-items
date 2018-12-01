@@ -5,7 +5,6 @@
   "author": "yutopp <yutopp@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "cheerio-httpcli": "^0.7.3",
     "glob-fs": "^0.1.7",
     "jquery": "^3.3.1",
     "jsdom": "^13.0.0",
