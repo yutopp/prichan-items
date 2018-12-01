@@ -59,6 +59,8 @@ const colorFromJP = s => {
       return "orange";
     case "シルバー":
       return "silver";
+    case "ゴールド":
+      return "gold";
     default:
       return s;
   }
@@ -82,6 +84,16 @@ const brandFromURIPath = s => {
       return "PreciousMuse";
     case "logo-prismstone.png":
       return "PrismStone";
+    case "logo-twinkleribbon.png":
+      return "TwinkleRibbon";
+    case "logo-lovedevi.png":
+      return "LOVEDEVI"
+    case "logo-babymonster.png":
+      return "BabyMonster"
+    case "logo-brilliantprince.png":
+      return "BrilliantPrince"
+    case "logo-q.png":
+      return "?";
     case "%brand%":
       return "";
     default:
@@ -99,6 +111,30 @@ const typeFromURIPath = s => {
       return "love";
     case "icon-pop.png":
       return "pop";
+    case "icon-q.png":
+      return "?";
+    default:
+      return s;
+  }
+};
+
+const normalizeRarity = s => {
+  switch (s) {
+    case "KR":
+    case "ＫＲ":
+      return "KR";
+    case "PR":
+    case "ＰＲ":
+      return "PR";
+    case "SR":
+    case "ＳＲ":
+      return "SR";
+    case "R":
+    case "Ｒ":
+      return "R";
+    case "N":
+    case "Ｎ":
+      return "N";
     default:
       return s;
   }
@@ -111,7 +147,7 @@ const doRequest = async itemID => {
   return await rp(options);
 };
 
-const getBasicInfo = async (itemNO, series, limited) => {
+const getBasicInfo = async (itemNO, series, limited, range) => {
   const htmlString = await doRequest(itemNO);
 
   const dom = new jsdom.JSDOM(htmlString);
@@ -145,6 +181,7 @@ const getBasicInfo = async (itemNO, series, limited) => {
     no: itemNO,
     series: series,
     limited: limited,
+    range: range,
     name: nameHTML
       .replace("<br>", " ")
       .replace("&amp; ", "&")
@@ -154,7 +191,7 @@ const getBasicInfo = async (itemNO, series, limited) => {
     color: colorFromJP(colorJP),
     brand: brandFromURIPath(brandURIPath),
     type: typeFromURIPath(typeURIPath),
-    rarity: rarity,
+    rarity: normalizeRarity(rarity),
     like: parseInt(likeString)
   };
 };
@@ -165,7 +202,12 @@ const getItemsOfSeries = async series => {
     const itemNO = series.itemNOs[i];
     console.error(`Downloading... (${i + 1}/${series.itemNOs.length})`);
 
-    const item = await getBasicInfo(itemNO, series.name, series.limited);
+    const item = await getBasicInfo(
+      itemNO,
+      series.name,
+      series.limited,
+      series.range
+    );
     items.push(item);
 
     await sleep(500);
