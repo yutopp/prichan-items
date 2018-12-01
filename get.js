@@ -57,6 +57,8 @@ const colorFromJP = s => {
       return "pink";
     case "オレンジ":
       return "orange";
+    case "シルバー":
+      return "silver";
     default:
       return s;
   }
@@ -64,8 +66,6 @@ const colorFromJP = s => {
 
 const brandFromURIPath = s => {
   switch (path.basename(s)) {
-    case "logo-preciousmuse.png":
-      return "PreciousMuse";
     case "logo-sweethoney.png":
       return "SweetHoney";
     case "logo-girlsyell.png":
@@ -78,6 +78,8 @@ const brandFromURIPath = s => {
       return "SecretAlice";
     case "logo-universequeen.png":
       return "UniverseQueen";
+    case "logo-preciousmuse.png":
+      return "PreciousMuse";
     case "logo-prismstone.png":
       return "PrismStone";
     case "%brand%":
