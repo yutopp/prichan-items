@@ -1,0 +1,53 @@
+[
+  {
+    "id": "P-S-004",
+    "no": "27991",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ぷっちぐみ　2018年６月号"
+    ],
+    "name": "ストロベリーガール ジャムワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27991.jpg",
+    "category": "one_piece",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 1000
+  },
+  {
+    "id": "P-S-005",
+    "no": "27992",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ぷっちぐみ　2018年６月号"
+    ],
+    "name": "ストロベリーガール ジャムシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27992.jpg",
+    "category": "shoes",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "P-S-006",
+    "no": "27993",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ぷっちぐみ　2018年６月号"
+    ],
+    "name": "ストロベリーガール ジャムヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27993.jpg",
+    "category": "hair_accessory",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 550
+  }
+]

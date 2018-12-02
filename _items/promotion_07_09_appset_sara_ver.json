@@ -1,0 +1,138 @@
+[
+  {
+    "id": "YA-029",
+    "no": "28120",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット さらver. アプリ連動"
+    ],
+    "name": "ギンガムハート さらアプリトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28120.jpg",
+    "category": "tops",
+    "color": "green",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "YA-030",
+    "no": "28121",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット さらver. アプリ連動"
+    ],
+    "name": "ギンガムハート さらアプリスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28121.jpg",
+    "category": "bottoms",
+    "color": "green",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "YA-031",
+    "no": "28122",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット さらver. アプリ連動"
+    ],
+    "name": "ギンガムハート さらアプリシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28122.jpg",
+    "category": "shoes",
+    "color": "green",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "YA-032",
+    "no": "28123",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット さらver. アプリ連動"
+    ],
+    "name": "ギンガムハート さらアプリヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28123.jpg",
+    "category": "hair_accessory",
+    "color": "green",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "YA-033",
+    "no": "28124",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット さらver. アプリ連動"
+    ],
+    "name": "パンクキャット パープルトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28124.jpg",
+    "category": "tops",
+    "color": "black",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "PR",
+    "like": 830
+  },
+  {
+    "id": "YA-034",
+    "no": "28125",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット さらver. アプリ連動"
+    ],
+    "name": "パンクキャット パープルスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28125.jpg",
+    "category": "bottoms",
+    "color": "purple",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "PR",
+    "like": 780
+  },
+  {
+    "id": "YA-035",
+    "no": "28126",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット さらver. アプリ連動"
+    ],
+    "name": "パンクキャット パープルシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28126.jpg",
+    "category": "shoes",
+    "color": "purple",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "PR",
+    "like": 730
+  },
+  {
+    "id": "YA-036",
+    "no": "28127",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット さらver. アプリ連動"
+    ],
+    "name": "パンクキャット パープルヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28127.jpg",
+    "category": "hair_accessory",
+    "color": "black",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "PR",
+    "like": 730
+  }
+]

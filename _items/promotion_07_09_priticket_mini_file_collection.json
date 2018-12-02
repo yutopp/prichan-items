@@ -1,0 +1,121 @@
+[
+  {
+    "id": "C-015",
+    "no": "27987",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "プリチケMiniファイルコレクション"
+    ],
+    "name": "プリ☆チャンユニフォーム ライトブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27987.jpg",
+    "category": "tops",
+    "color": "light_blue",
+    "brand": "PrismStone",
+    "type": "love",
+    "rarity": "R",
+    "like": 650
+  },
+  {
+    "id": "C-016",
+    "no": "27988",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "プリチケMiniファイルコレクション"
+    ],
+    "name": "プリ☆チャンユニフォーム ライトブルースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27988.jpg",
+    "category": "bottoms",
+    "color": "light_blue",
+    "brand": "PrismStone",
+    "type": "love",
+    "rarity": "R",
+    "like": 600
+  },
+  {
+    "id": "C-017",
+    "no": "27989",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "プリチケMiniファイルコレクション"
+    ],
+    "name": "プリ☆チャンユニフォーム ライトブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27989.jpg",
+    "category": "shoes",
+    "color": "light_blue",
+    "brand": "PrismStone",
+    "type": "love",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "C-018",
+    "no": "27990",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "プリチケMiniファイルコレクション"
+    ],
+    "name": "プリ☆チャンユニフォーム ライトブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27990.jpg",
+    "category": "hair_accessory",
+    "color": "light_blue",
+    "brand": "PrismStone",
+    "type": "love",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "C-019",
+    "no": "28016",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "プリチケMiniファイルコレクション"
+    ],
+    "name": "ストロベリーガール パープルワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28016.jpg",
+    "category": "one_piece",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 1000
+  },
+  {
+    "id": "C-020",
+    "no": "28017",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "プリチケMiniファイルコレクション"
+    ],
+    "name": "ストロベリーガール パープルシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28017.jpg",
+    "category": "shoes",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "C-021",
+    "no": "28018",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "プリチケMiniファイルコレクション"
+    ],
+    "name": "ストロベリーガール パープルヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28018.jpg",
+    "category": "hair_accessory",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 550
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CD-001",
+    "no": "28027",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "GAME PriPara Music Collection vol.6"
+    ],
+    "name": "ダンシングマーチ ブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28027.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "CD-002",
+    "no": "28028",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "GAME PriPara Music Collection vol.6"
+    ],
+    "name": "ダンシングマーチ ブルースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28028.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 650
+  },
+  {
+    "id": "CD-003",
+    "no": "28029",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "GAME PriPara Music Collection vol.6"
+    ],
+    "name": "ダンシングマーチ ブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28029.jpg",
+    "category": "shoes",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 600
+  },
+  {
+    "id": "CD-004",
+    "no": "28030",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "GAME PriPara Music Collection vol.6"
+    ],
+    "name": "ダンシングマーチ ブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28030.jpg",
+    "category": "hair_accessory",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 550
+  }
+]

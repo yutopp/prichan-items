@@ -1,0 +1,70 @@
+[
+  {
+    "id": "PM-05",
+    "no": "70602",
+    "series": "ブランド限定",
+    "limited": [
+      "Precious Muse",
+      "ランク4"
+    ],
+    "name": "ドレッシーストライプ ブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70602.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "PM-06",
+    "no": "70603",
+    "series": "ブランド限定",
+    "limited": [
+      "Precious Muse",
+      "ランク4"
+    ],
+    "name": "ドレッシーストライプ ブルースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70603.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "PM-07",
+    "no": "70604",
+    "series": "ブランド限定",
+    "limited": [
+      "Precious Muse",
+      "ランク4"
+    ],
+    "name": "ドレッシーストライプ ブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70604.jpg",
+    "category": "shoes",
+    "color": "blue",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PM-08",
+    "no": "70605",
+    "series": "ブランド限定",
+    "limited": [
+      "Precious Muse",
+      "ランク4"
+    ],
+    "name": "ドレッシーストライプ ブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70605.jpg",
+    "category": "hair_accessory",
+    "color": "blue",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "P-S-018",
+    "no": "28088",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "ちゃお 2018年8月号、ちゃおデラックス9月号応募者全員サービス"
+    ],
+    "name": "パンクキャット ホワイトレッドトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28088.jpg",
+    "category": "tops",
+    "color": "white",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "P-S-019",
+    "no": "28089",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "ちゃお 2018年8月号、ちゃおデラックス9月号応募者全員サービス"
+    ],
+    "name": "パンクキャット ホワイトレッドスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28089.jpg",
+    "category": "bottoms",
+    "color": "red",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 800
+  },
+  {
+    "id": "P-S-020",
+    "no": "28090",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "ちゃお 2018年8月号、ちゃおデラックス9月号応募者全員サービス"
+    ],
+    "name": "パンクキャット ホワイトレッドシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28090.jpg",
+    "category": "shoes",
+    "color": "red",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "P-S-021",
+    "no": "28091",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "ちゃお 2018年8月号、ちゃおデラックス9月号応募者全員サービス"
+    ],
+    "name": "パンクキャット ホワイトレッドヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28091.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  }
+]

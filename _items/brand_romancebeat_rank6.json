@@ -1,0 +1,70 @@
+[
+  {
+    "id": "RB-09",
+    "no": "70391",
+    "series": "ブランド限定",
+    "limited": [
+      "Romance Beat",
+      "ランク6"
+    ],
+    "name": "ペイントパターン ブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70391.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "RB-10",
+    "no": "70392",
+    "series": "ブランド限定",
+    "limited": [
+      "Romance Beat",
+      "ランク6"
+    ],
+    "name": "ペイントパターン ブルースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70392.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "RB-11",
+    "no": "70393",
+    "series": "ブランド限定",
+    "limited": [
+      "Romance Beat",
+      "ランク6"
+    ],
+    "name": "ペイントパターン ブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70393.jpg",
+    "category": "shoes",
+    "color": "black",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "RB-12",
+    "no": "70394",
+    "series": "ブランド限定",
+    "limited": [
+      "Romance Beat",
+      "ランク6"
+    ],
+    "name": "ペイントパターン ブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70394.jpg",
+    "category": "hair_accessory",
+    "color": "blue",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  }
+]

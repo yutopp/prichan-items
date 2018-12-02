@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CD-005",
+    "no": "28200",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "GAME PriPara Music Collection vol.6"
+    ],
+    "name": "プリプリしつじ バイオレットワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28200.jpg",
+    "category": "one_piece",
+    "color": "purple",
+    "brand": "HolicTrick",
+    "type": "cool",
+    "rarity": "R",
+    "like": 1000
+  },
+  {
+    "id": "CD-006",
+    "no": "28201",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "GAME PriPara Music Collection vol.6"
+    ],
+    "name": "プリプリしつじ バイオレットシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28201.jpg",
+    "category": "shoes",
+    "color": "purple",
+    "brand": "HolicTrick",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "CD-007",
+    "no": "28202",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "GAME PriPara Music Collection vol.6"
+    ],
+    "name": "プリプリしつじ バイオレットヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28202.jpg",
+    "category": "hair_accessory",
+    "color": "purple",
+    "brand": "HolicTrick",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "CD-00８",
+    "no": "28189",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "GAME PriPara Music Collection vol.6"
+    ],
+    "name": "WITHガールズ シューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28189.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "",
+    "type": "",
+    "rarity": "R",
+    "like": 550
+  }
+]

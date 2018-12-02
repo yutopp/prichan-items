@@ -1,0 +1,82 @@
+[
+  {
+    "id": "SP-001",
+    "no": "28136",
+    "series": "期間限定",
+    "limited": [
+      "プリズムストーンpresents キラ宿選抜スペシャル大会"
+    ],
+    "range": {
+      "begin": "2018/06/17",
+      "end": "2018/07/15"
+    },
+    "name": "プリ☆チャンユニフォーム ピュアホワイトトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28136.jpg",
+    "category": "tops",
+    "color": "white",
+    "brand": "PrismStone",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "SP-002",
+    "no": "28137",
+    "series": "期間限定",
+    "limited": [
+      "プリズムストーンpresents キラ宿選抜スペシャル大会"
+    ],
+    "range": {
+      "begin": "2018/06/17",
+      "end": "2018/07/15"
+    },
+    "name": "プリ☆チャンユニフォーム ピュアホワイトスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28137.jpg",
+    "category": "bottoms",
+    "color": "white",
+    "brand": "PrismStone",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "SP-003",
+    "no": "28138",
+    "series": "期間限定",
+    "limited": [
+      "プリズムストーンpresents キラ宿選抜スペシャル大会"
+    ],
+    "range": {
+      "begin": "2018/06/17",
+      "end": "2018/07/15"
+    },
+    "name": "プリ☆チャンユニフォーム ピュアホワイトシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28138.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "PrismStone",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "SP-004",
+    "no": "28139",
+    "series": "期間限定",
+    "limited": [
+      "プリズムストーンpresents キラ宿選抜スペシャル大会"
+    ],
+    "range": {
+      "begin": "2018/06/17",
+      "end": "2018/07/15"
+    },
+    "name": "プリ☆チャンユニフォーム ピュアホワイトヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28139.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "PrismStone",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  }
+]

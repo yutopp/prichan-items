@@ -1,0 +1,70 @@
+[
+  {
+    "id": "PM-01",
+    "no": "70598",
+    "series": "ブランド限定",
+    "limited": [
+      "Precious Muse",
+      "ランク2"
+    ],
+    "name": "エレガントパーティー イエロートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70598.jpg",
+    "category": "tops",
+    "color": "yellow",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "PM-02",
+    "no": "70599",
+    "series": "ブランド限定",
+    "limited": [
+      "Precious Muse",
+      "ランク2"
+    ],
+    "name": "エレガントパーティー イエロースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70599.jpg",
+    "category": "bottoms",
+    "color": "yellow",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "PM-03",
+    "no": "70600",
+    "series": "ブランド限定",
+    "limited": [
+      "Precious Muse",
+      "ランク2"
+    ],
+    "name": "エレガントパーティー イエローシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70600.jpg",
+    "category": "shoes",
+    "color": "yellow",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PM-04",
+    "no": "70601",
+    "series": "ブランド限定",
+    "limited": [
+      "Precious Muse",
+      "ランク2"
+    ],
+    "name": "エレガントパーティー イエローヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70601.jpg",
+    "category": "hair_accessory",
+    "color": "yellow",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  }
+]

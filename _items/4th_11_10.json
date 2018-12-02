@@ -1,0 +1,631 @@
+[
+  {
+    "id": "PCH4-16",
+    "no": "70383",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "プリ☆チャンユニフォーム パープルトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70383.jpg",
+    "category": "tops",
+    "color": "purple",
+    "brand": "/resources/images/items/logo-prismstone.png",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "PCH4-17",
+    "no": "70384",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "プリ☆チャンユニフォーム パープルスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70384.jpg",
+    "category": "skirt",
+    "color": "purple",
+    "brand": "/resources/images/items/logo-prismstone.png",
+    "type": "cool",
+    "rarity": "R",
+    "like": 500
+  },
+  {
+    "id": "PCH4-18",
+    "no": "70385",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "プリ☆チャンユニフォーム パープルシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70385.jpg",
+    "category": "shoes",
+    "color": "purple",
+    "brand": "/resources/images/items/logo-prismstone.png",
+    "type": "cool",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PCH4-19",
+    "no": "70386",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "プリ☆チャンユニフォーム パープルヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70386.jpg",
+    "category": "accessory",
+    "color": "purple",
+    "brand": "/resources/images/items/logo-prismstone.png",
+    "type": "cool",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PCH4-20",
+    "no": "70399",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "カジュアルマリン スカジャン",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70399.jpg",
+    "category": "tops",
+    "color": "white",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PCH4-21",
+    "no": "70400",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "カジュアルマリン スカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70400.jpg",
+    "category": "skirt",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 500
+  },
+  {
+    "id": "PCH4-22",
+    "no": "70401",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "カジュアルマリン シューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70401.jpg",
+    "category": "shoes",
+    "color": "red",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "PCH4-23",
+    "no": "70402",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "カジュアルマリン ヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70402.jpg",
+    "category": "accessory",
+    "color": "white",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PCH4-24",
+    "no": "70387",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "レトロストライプ ブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70387.jpg",
+    "category": "tops",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "R",
+    "like": 500
+  },
+  {
+    "id": "PCH4-25",
+    "no": "70388",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "レトロストライプ ブルースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70388.jpg",
+    "category": "skirt",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "PCH4-26",
+    "no": "70389",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "レトロストライプ ブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70389.jpg",
+    "category": "shoes",
+    "color": "blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PCH4-27",
+    "no": "70390",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "レトロストライプ ブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70390.jpg",
+    "category": "accessory",
+    "color": "white",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PCH4-28",
+    "no": "70446",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "ペイントパターン ピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70446.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "PCH4-29",
+    "no": "70447",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "ペイントパターン ピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70447.jpg",
+    "category": "skirt",
+    "color": "pink",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "R",
+    "like": 500
+  },
+  {
+    "id": "PCH4-30",
+    "no": "70448",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "ペイントパターン ピンクシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70448.jpg",
+    "category": "shoes",
+    "color": "black",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PCH4-31",
+    "no": "70449",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "ペイントパターン ピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70449.jpg",
+    "category": "accessory",
+    "color": "pink",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PCH4-32",
+    "no": "70407",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "トゥインクルスター かただしトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70407.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "R",
+    "like": 500
+  },
+  {
+    "id": "PCH4-33",
+    "no": "70408",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "トゥインクルスター スカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70408.jpg",
+    "category": "skirt",
+    "color": "white",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PCH4-34",
+    "no": "70409",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "トゥインクルスター シューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70409.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "PCH4-35",
+    "no": "70410",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "トゥインクルスター ヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70410.jpg",
+    "category": "accessory",
+    "color": "blue",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PCH4-36",
+    "no": "70395",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "フラワーガール デニムトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70395.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "N",
+    "like": 400
+  },
+  {
+    "id": "PCH4-37",
+    "no": "70396",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "フラワーガール ピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70396.jpg",
+    "category": "skirt",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "N",
+    "like": 350
+  },
+  {
+    "id": "PCH4-38",
+    "no": "70397",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "フラワーガール ピンクシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70397.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "N",
+    "like": 300
+  },
+  {
+    "id": "PCH4-39",
+    "no": "70398",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "フラワーガール ピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70398.jpg",
+    "category": "accessory",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "N",
+    "like": 300
+  },
+  {
+    "id": "PCH4-40",
+    "no": "70403",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "ミステリーレッド トップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70403.jpg",
+    "category": "tops",
+    "color": "red",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "N",
+    "like": 350
+  },
+  {
+    "id": "PCH4-41",
+    "no": "70404",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "ミステリーレッド スカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70404.jpg",
+    "category": "skirt",
+    "color": "black",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "N",
+    "like": 300
+  },
+  {
+    "id": "PCH4-42",
+    "no": "70405",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "ミステリーレッド シューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70405.jpg",
+    "category": "shoes",
+    "color": "black",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "N",
+    "like": 400
+  },
+  {
+    "id": "PCH4-43",
+    "no": "70406",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "ミステリーレッド ヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70406.jpg",
+    "category": "accessory",
+    "color": "red",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "N",
+    "like": 300
+  },
+  {
+    "id": "PCH4-44",
+    "no": "70411",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "ヴィンテージチェック ワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70411.jpg",
+    "category": "one_piece",
+    "color": "white",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "N",
+    "like": 600
+  },
+  {
+    "id": "PCH4-45",
+    "no": "70412",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "ヴィンテージチェック シューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70412.jpg",
+    "category": "shoes",
+    "color": "brown",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "N",
+    "like": 300
+  },
+  {
+    "id": "PCH4-46",
+    "no": "70413",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "ヴィンテージチェック ヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70413.jpg",
+    "category": "accessory",
+    "color": "brown",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "N",
+    "like": 300
+  },
+  {
+    "id": "PCH4-47",
+    "no": "70414",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "マニッシュパンク トップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70414.jpg",
+    "category": "tops",
+    "color": "purple",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "N",
+    "like": 400
+  },
+  {
+    "id": "PCH4-48",
+    "no": "70415",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "マニッシュパンク スカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70415.jpg",
+    "category": "skirt",
+    "color": "white",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "N",
+    "like": 350
+  },
+  {
+    "id": "PCH4-49",
+    "no": "70416",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "マニッシュパンク シューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70416.jpg",
+    "category": "shoes",
+    "color": "purple",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "N",
+    "like": 300
+  },
+  {
+    "id": "PCH4-50",
+    "no": "70417",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "マニッシュパンク ヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70417.jpg",
+    "category": "accessory",
+    "color": "purple",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "N",
+    "like": 300
+  },
+  {
+    "id": "PCH4-51",
+    "no": "70421",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "ヴィンテージ ブラウンブック",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70421.jpg",
+    "category": "pashatto_item",
+    "color": "brown",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PCH4-52",
+    "no": "70422",
+    "series": "第4弾",
+    "limited": [
+      "10月チャンネル",
+      "11月チャンネル"
+    ],
+    "name": "まほうの ピンクカード",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70422.jpg",
+    "category": "pashatto_item",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 450
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "P-S-007",
+    "no": "70078",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "小学一年生　2018年６月号"
+    ],
+    "name": "ストロベリーガール クリームワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70078.jpg",
+    "category": "one_piece",
+    "color": "yellow",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 1000
+  },
+  {
+    "id": "P-S-008",
+    "no": "70079",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "小学一年生　2018年６月号"
+    ],
+    "name": "ストロベリーガール クリームシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70079.jpg",
+    "category": "shoes",
+    "color": "yellow",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "P-S-009",
+    "no": "70080",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "小学一年生　2018年６月号"
+    ],
+    "name": "ストロベリーガール クリームヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70080.jpg",
+    "category": "hair_accessory",
+    "color": "yellow",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 550
+  }
+]

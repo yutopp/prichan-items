@@ -1,0 +1,70 @@
+[
+  {
+    "id": "P-S-027",
+    "no": "28167",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "ちゃお　2018年9月号"
+    ],
+    "name": "はなやかゆかた ふじいろトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28167.jpg",
+    "category": "tops",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 600
+  },
+  {
+    "id": "P-S-028",
+    "no": "28168",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "ちゃお　2018年9月号"
+    ],
+    "name": "はなやかゆかた ふじいろスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28168.jpg",
+    "category": "bottoms",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 650
+  },
+  {
+    "id": "P-S-029",
+    "no": "28169",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "ちゃお　2018年9月号"
+    ],
+    "name": "はなやかゆかた ふじいろシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28169.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "P-S-030",
+    "no": "28170",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "ちゃお　2018年9月号"
+    ],
+    "name": "はなやかゆかた ふじいろヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28170.jpg",
+    "category": "hair_accessory",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 550
+  }
+]

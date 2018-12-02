@@ -1,0 +1,70 @@
+[
+  {
+    "id": "RB-01",
+    "no": "70172",
+    "series": "ブランド限定",
+    "limited": [
+      "Romance Beat",
+      "ランク2"
+    ],
+    "name": "スターダスト レザーピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70172.jpg",
+    "category": "tops",
+    "color": "",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "RB-02",
+    "no": "70173",
+    "series": "ブランド限定",
+    "limited": [
+      "Romance Beat",
+      "ランク2"
+    ],
+    "name": "スターダスト レザーピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70173.jpg",
+    "category": "bottoms",
+    "color": "",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "RB-03",
+    "no": "70174",
+    "series": "ブランド限定",
+    "limited": [
+      "Romance Beat",
+      "ランク2"
+    ],
+    "name": "スターダスト レザーピンクブーツ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70174.jpg",
+    "category": "shoes",
+    "color": "",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "RB-04",
+    "no": "70175",
+    "series": "ブランド限定",
+    "limited": [
+      "Romance Beat",
+      "ランク2"
+    ],
+    "name": "スターダスト レザーピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70175.jpg",
+    "category": "hair_accessory",
+    "color": "",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  }
+]

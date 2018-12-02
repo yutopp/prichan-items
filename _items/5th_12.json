@@ -1,0 +1,322 @@
+[
+  {
+    "id": "PCH5-01",
+    "no": "70500",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プレシャスミューズ キラッとワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70500.jpg",
+    "category": "one_piece",
+    "color": "white",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "KR",
+    "like": 1900
+  },
+  {
+    "id": "PCH5-02",
+    "no": "70501",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プレシャスミューズ キラッとシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70501.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "KR",
+    "like": 900
+  },
+  {
+    "id": "PCH5-03",
+    "no": "70502",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プレシャスミューズ キラッとヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70502.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "KR",
+    "like": 900
+  },
+  {
+    "id": "PCH5-04",
+    "no": "70503",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "シャイニースター ホワイトトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70503.jpg",
+    "category": "tops",
+    "color": "white",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "PR",
+    "like": 850
+  },
+  {
+    "id": "PCH5-05",
+    "no": "70504",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "シャイニースター ホワイトスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70504.jpg",
+    "category": "bottoms",
+    "color": "white",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "PR",
+    "like": 800
+  },
+  {
+    "id": "PCH5-06",
+    "no": "70505",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "シャイニースター ホワイトシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70505.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "PR",
+    "like": 750
+  },
+  {
+    "id": "PCH5-07",
+    "no": "70506",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "シャイニースター ホワイトヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70506.jpg",
+    "category": "hair_accessory",
+    "color": "ゴールド",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "PR",
+    "like": 750
+  },
+  {
+    "id": "PCH5-08",
+    "no": "70507",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プリティーリボン ビビッドピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70507.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 800
+  },
+  {
+    "id": "PCH5-09",
+    "no": "70508",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プリティーリボン ビビッドピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70508.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 750
+  },
+  {
+    "id": "PCH5-10",
+    "no": "70509",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プリティーリボン ビビッドピンクシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70509.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 850
+  },
+  {
+    "id": "PCH5-11",
+    "no": "70510",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プリティーリボン ビビッドピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70510.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 750
+  },
+  {
+    "id": "PCH5-12",
+    "no": "70511",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プリティーリボン ビビッドブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70511.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "PCH5-13",
+    "no": "70512",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プリティーリボン ビビッドブルースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70512.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PCH5-14",
+    "no": "70513",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プリティーリボン ビビッドブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70513.jpg",
+    "category": "shoes",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "PCH5-15",
+    "no": "70514",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プリティーリボン ビビッドブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70514.jpg",
+    "category": "hair_accessory",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PCH5-16",
+    "no": "70515",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プリティーリボン ビビッドグリーントップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70515.jpg",
+    "category": "tops",
+    "color": "green",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PCH5-17",
+    "no": "70516",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プリティーリボン ビビッドグリーンスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70516.jpg",
+    "category": "bottoms",
+    "color": "green",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "PCH5-18",
+    "no": "70517",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プリティーリボン ビビッドグリーンシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70517.jpg",
+    "category": "shoes",
+    "color": "green",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "PCH5-19",
+    "no": "70518",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "プリティーリボン ビビッドグリーンヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70518.jpg",
+    "category": "hair_accessory",
+    "color": "green",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PCH5-20",
+    "no": "70519",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル"
+    ],
+    "name": "クラシック ヴァイオリン",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70519.jpg",
+    "category": "pashatto_item",
+    "color": "brown",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "PCH3-74",
+    "no": "28174",
+    "series": "第3弾",
+    "limited": [
+      "期間限定（2018年8月2日～10月3日）"
+    ],
+    "name": "ラスカル オールフレンズトップス 期間限定（2018年8月2日～10月3日）",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28174.jpg",
+    "category": "tops",
+    "color": "orange",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 800
+  },
+  {
+    "id": "PCH3-75",
+    "no": "28175",
+    "series": "第3弾",
+    "limited": [
+      "期間限定（2018年8月2日～10月3日）"
+    ],
+    "name": "ラスカル オールフレンズスカート 期間限定（2018年8月2日～10月3日）",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28175.jpg",
+    "category": "bottoms",
+    "color": "orange",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "PCH3-76",
+    "no": "28176",
+    "series": "第3弾",
+    "limited": [
+      "期間限定（2018年8月2日～10月3日）"
+    ],
+    "name": "ラスカル オールフレンズシューズ 期間限定（2018年8月2日～10月3日）",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28176.jpg",
+    "category": "shoes",
+    "color": "brown",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "PCH3-77",
+    "no": "28177",
+    "series": "第3弾",
+    "limited": [
+      "期間限定（2018年8月2日～10月3日）"
+    ],
+    "name": "ラスカル オールフレンズヘアアクセ 期間限定（2018年8月2日～10月3日）",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28177.jpg",
+    "category": "hair_accessory",
+    "color": "orange",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "SH-08",
+    "no": "70335",
+    "series": "ブランド限定",
+    "limited": [
+      "Sweet Honey",
+      "ランク6"
+    ],
+    "name": "ミントギンガム サマーワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70335.jpg",
+    "category": "one_piece",
+    "color": "green",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "SH-09",
+    "no": "70336",
+    "series": "ブランド限定",
+    "limited": [
+      "Sweet Honey",
+      "ランク6"
+    ],
+    "name": "ミントギンガム サマーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70336.jpg",
+    "category": "shoes",
+    "color": "green",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "SH-10",
+    "no": "70337",
+    "series": "ブランド限定",
+    "limited": [
+      "Sweet Honey",
+      "ランク6"
+    ],
+    "name": "ミントギンガム むぎわらハット",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70337.jpg",
+    "category": "hair_accessory",
+    "color": "green",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  }
+]

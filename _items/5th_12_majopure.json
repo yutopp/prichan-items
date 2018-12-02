@@ -1,0 +1,70 @@
+[
+  {
+    "id": "PCH5-63",
+    "no": "70520",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル",
+      "マジマジョピュアーズ！コラボ"
+    ],
+    "name": "マジマジョピュアーズ！ モモカトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70520.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "PCH5-64",
+    "no": "70521",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル",
+      "マジマジョピュアーズ！コラボ"
+    ],
+    "name": "マジマジョピュアーズ！ モモカスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70521.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "PCH5-65",
+    "no": "70522",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル",
+      "マジマジョピュアーズ！コラボ"
+    ],
+    "name": "マジマジョピュアーズ！ モモカシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70522.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PCH5-66",
+    "no": "70523",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル",
+      "マジマジョピュアーズ！コラボ"
+    ],
+    "name": "マジマジョピュアーズ！ モモカヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70523.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "PAF2-01",
+    "no": "70191",
+    "series": "期間限定",
+    "limited": [
+      "プリティーオールフレンズチャンネル"
+    ],
+    "range": {
+      "begin": "2018/07/05"
+    },
+    "name": "プリティーオールフレンズ あいらトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70191.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "PrismStone",
+    "type": "love",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "PAF2-02",
+    "no": "70192",
+    "series": "期間限定",
+    "limited": [
+      "プリティーオールフレンズチャンネル"
+    ],
+    "range": {
+      "begin": "2018/07/05"
+    },
+    "name": "プリティーオールフレンズ あいらスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70192.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "PrismStone",
+    "type": "love",
+    "rarity": "R",
+    "like": 500
+  },
+  {
+    "id": "PAF2-03",
+    "no": "70193",
+    "series": "期間限定",
+    "limited": [
+      "プリティーオールフレンズチャンネル"
+    ],
+    "range": {
+      "begin": "2018/07/05"
+    },
+    "name": "プリティーオールフレンズ あいらシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70193.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "PrismStone",
+    "type": "love",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PAF2-04",
+    "no": "70194",
+    "series": "期間限定",
+    "limited": [
+      "プリティーオールフレンズチャンネル"
+    ],
+    "range": {
+      "begin": "2018/07/05"
+    },
+    "name": "プリティーオールフレンズ あいらヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70194.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "PrismStone",
+    "type": "love",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PAF2-05",
+    "no": "70195",
+    "series": "期間限定",
+    "limited": [
+      "プリティーオールフレンズチャンネル"
+    ],
+    "range": {
+      "begin": "2018/07/05"
+    },
+    "name": "プリティーオールフレンズ りずむトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70195.jpg",
+    "category": "tops",
+    "color": "light_blue",
+    "brand": "PrismStone",
+    "type": "pop",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "PAF2-06",
+    "no": "70196",
+    "series": "期間限定",
+    "limited": [
+      "プリティーオールフレンズチャンネル"
+    ],
+    "range": {
+      "begin": "2018/07/05"
+    },
+    "name": "プリティーオールフレンズ りずむパンツ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70196.jpg",
+    "category": "bottoms",
+    "color": "light_blue",
+    "brand": "PrismStone",
+    "type": "pop",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PAF2-07",
+    "no": "70197",
+    "series": "期間限定",
+    "limited": [
+      "プリティーオールフレンズチャンネル"
+    ],
+    "range": {
+      "begin": "2018/07/05"
+    },
+    "name": "プリティーオールフレンズ りずむシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70197.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "PrismStone",
+    "type": "pop",
+    "rarity": "R",
+    "like": 500
+  },
+  {
+    "id": "PAF2-08",
+    "no": "70198",
+    "series": "期間限定",
+    "limited": [
+      "プリティーオールフレンズチャンネル"
+    ],
+    "range": {
+      "begin": "2018/07/05"
+    },
+    "name": "プリティーオールフレンズ りずむヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70198.jpg",
+    "category": "hair_accessory",
+    "color": "light_blue",
+    "brand": "PrismStone",
+    "type": "pop",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PAF2-09",
+    "no": "70199",
+    "series": "期間限定",
+    "limited": [
+      "プリティーオールフレンズチャンネル"
+    ],
+    "range": {
+      "begin": "2018/07/05"
+    },
+    "name": "プリティーオールフレンズ みおんトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70199.jpg",
+    "category": "tops",
+    "color": "white",
+    "brand": "PrismStone",
+    "type": "cool",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "PAF2-10",
+    "no": "70200",
+    "series": "期間限定",
+    "limited": [
+      "プリティーオールフレンズチャンネル"
+    ],
+    "range": {
+      "begin": "2018/07/05"
+    },
+    "name": "プリティーオールフレンズ みおんスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70200.jpg",
+    "category": "bottoms",
+    "color": "white",
+    "brand": "PrismStone",
+    "type": "cool",
+    "rarity": "R",
+    "like": 500
+  },
+  {
+    "id": "PAF2-11",
+    "no": "70201",
+    "series": "期間限定",
+    "limited": [
+      "プリティーオールフレンズチャンネル"
+    ],
+    "range": {
+      "begin": "2018/07/05"
+    },
+    "name": "プリティーオールフレンズ みおんシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70201.jpg",
+    "category": "shoes",
+    "color": "purple",
+    "brand": "PrismStone",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "PAF2-12",
+    "no": "70202",
+    "series": "期間限定",
+    "limited": [
+      "プリティーオールフレンズチャンネル"
+    ],
+    "range": {
+      "begin": "2018/07/05"
+    },
+    "name": "プリティーオールフレンズ みおんヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70202.jpg",
+    "category": "hair_accessory",
+    "color": "purple",
+    "brand": "PrismStone",
+    "type": "cool",
+    "rarity": "R",
+    "like": 450
+  }
+]

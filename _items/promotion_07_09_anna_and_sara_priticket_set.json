@@ -1,0 +1,155 @@
+[
+  {
+    "id": "AM-011",
+    "no": "28062",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "あんな＆さらプリチケセット"
+    ],
+    "name": "ラビットカメオ トップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28062.jpg",
+    "category": "tops",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 800
+  },
+  {
+    "id": "AM-012",
+    "no": "28063",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "あんな＆さらプリチケセット"
+    ],
+    "name": "ラビットカメオ ボトムス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28063.jpg",
+    "category": "bottoms",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "AM-013",
+    "no": "28064",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "あんな＆さらプリチケセット"
+    ],
+    "name": "ラビットカメオ シューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28064.jpg",
+    "category": "shoes",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "AM-014",
+    "no": "28065",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "あんな＆さらプリチケセット"
+    ],
+    "name": "ラビットカメオ ヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28065.jpg",
+    "category": "hair_accessory",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "AM-015",
+    "no": "28066",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "あんな＆さらプリチケセット"
+    ],
+    "name": "ベージュのうさぎさん ぬいぐるみ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28066.jpg",
+    "category": "pashatto_item",
+    "color": "yellow",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "AM-016",
+    "no": "28067",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "あんな＆さらプリチケセット"
+    ],
+    "name": "ロッカー グリーンベスト＆Tシャツ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28067.jpg",
+    "category": "tops",
+    "color": "green",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "R",
+    "like": 650
+  },
+  {
+    "id": "AM-017",
+    "no": "28068",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "あんな＆さらプリチケセット"
+    ],
+    "name": "ロッカー ダメージデニムショーパン",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28068.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "AM-018",
+    "no": "28069",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "あんな＆さらプリチケセット"
+    ],
+    "name": "ロッカー グリーンローファー",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28069.jpg",
+    "category": "shoes",
+    "color": "green",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "R",
+    "like": 600
+  },
+  {
+    "id": "AM-019",
+    "no": "28070",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "あんな＆さらプリチケセット"
+    ],
+    "name": "ロッカー ブラックハット",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28070.jpg",
+    "category": "hair_accessory",
+    "color": "black",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  }
+]

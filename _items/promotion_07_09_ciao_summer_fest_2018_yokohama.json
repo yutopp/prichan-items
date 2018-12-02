@@ -1,0 +1,53 @@
+[
+  {
+    "id": "__tmp_p0709_y_01",
+    "no": "28183",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "ちゃおサマーフェスティバル2018横浜会場"
+    ],
+    "name": "スターダスト スカーレットグラデワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28183.jpg",
+    "category": "one_piece",
+    "color": "purple",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "R",
+    "like": 1000
+  },
+  {
+    "id": "__tmp_p0709_y_02",
+    "no": "28184",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "ちゃおサマーフェスティバル2018横浜会場"
+    ],
+    "name": "スターダスト スカーレットグラデシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28184.jpg",
+    "category": "shoes",
+    "color": "purple",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "__tmp_p0709_y_03",
+    "no": "28185",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "ちゃおサマーフェスティバル2018横浜会場"
+    ],
+    "name": "スターダスト スカーレットグラデヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28185.jpg",
+    "category": "hair_accessory",
+    "color": "purple",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  }
+]

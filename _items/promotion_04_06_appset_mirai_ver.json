@@ -1,0 +1,138 @@
+[
+  {
+    "id": "YA-005",
+    "no": "28096",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット みらいver. アプリ連動"
+    ],
+    "name": "ギンガムハート みらいアプリトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28096.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "YA-006",
+    "no": "28097",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット みらいver. アプリ連動"
+    ],
+    "name": "ギンガムハート みらいアプリスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28097.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "YA-007",
+    "no": "28098",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット みらいver. アプリ連動"
+    ],
+    "name": "ギンガムハート みらいアプリシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28098.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "YA-008",
+    "no": "28099",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット みらいver. アプリ連動"
+    ],
+    "name": "ギンガムハート みらいアプリヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28099.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "YA-009",
+    "no": "28100",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット みらいver. アプリ連動"
+    ],
+    "name": "フラワーショップ リーフトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28100.jpg",
+    "category": "tops",
+    "color": "green",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 830
+  },
+  {
+    "id": "YA-010",
+    "no": "28101",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット みらいver. アプリ連動"
+    ],
+    "name": "フラワーショップ リーフスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28101.jpg",
+    "category": "bottoms",
+    "color": "green",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 780
+  },
+  {
+    "id": "YA-011",
+    "no": "28102",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット みらいver. アプリ連動"
+    ],
+    "name": "フラワーショップ リーフシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28102.jpg",
+    "category": "shoes",
+    "color": "green",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 730
+  },
+  {
+    "id": "YA-012",
+    "no": "28103",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット みらいver. アプリ連動"
+    ],
+    "name": "フラワーショップ リーフヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28103.jpg",
+    "category": "hair_accessory",
+    "color": "green",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 730
+  }
+]

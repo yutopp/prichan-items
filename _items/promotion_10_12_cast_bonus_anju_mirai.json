@@ -1,0 +1,631 @@
+[
+  {
+    "id": "AM-033",
+    "no": "28196",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "なかよしまくら ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28196.jpg",
+    "category": "パシャっとアイテム",
+    "color": "pink",
+    "brand": "PrismStone",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "AM-034",
+    "no": "28203",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "ディスコティックラブ トップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28203.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 800
+  },
+  {
+    "id": "AM-035",
+    "no": "28204",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "ディスコティックラブ スカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28204.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "AM-036",
+    "no": "28205",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "ディスコティックラブ シューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28205.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "AM-037",
+    "no": "28206",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "ディスコティックラブ ヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28206.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "AM-038",
+    "no": "28211",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "ピンキー フェザーせんす",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28211.jpg",
+    "category": "パシャっとアイテム",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "AM-039",
+    "no": "28207",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "クラシックハート ライトブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28207.jpg",
+    "category": "tops",
+    "color": "light_blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "R",
+    "like": 600
+  },
+  {
+    "id": "AM-040",
+    "no": "28208",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "クラシックハート ライトブルースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28208.jpg",
+    "category": "bottoms",
+    "color": "light_blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "AM-041",
+    "no": "28209",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "クラシックハート ライトブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28209.jpg",
+    "category": "shoes",
+    "color": "light_blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "R",
+    "like": 650
+  },
+  {
+    "id": "AM-042",
+    "no": "28210",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "クラシックハート ライトブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28210.jpg",
+    "category": "hair_accessory",
+    "color": "light_blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "AM-043",
+    "no": "28195",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "スターダスト エメラルドグラデワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28195.jpg",
+    "category": "one_piece",
+    "color": "green",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "R",
+    "like": 1000
+  },
+  {
+    "id": "AM-056",
+    "no": "28254",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "わんわんポリス グリーントップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28254.jpg",
+    "category": "tops",
+    "color": "green",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 800
+  },
+  {
+    "id": "AM-057",
+    "no": "28255",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "わんわんポリス グリーンヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28255.jpg",
+    "category": "hair_accessory",
+    "color": "black",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "AM-058",
+    "no": "28256",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "わんわんポリス グリーンスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28256.jpg",
+    "category": "bottoms",
+    "color": "green",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "AM-059",
+    "no": "28257",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "わんわんポリス グリーンシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28257.jpg",
+    "category": "shoes",
+    "color": "black",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "C-022",
+    "no": "28258",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "にゃんにゃんにゃ～す ピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28258.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 800
+  },
+  {
+    "id": "C-023",
+    "no": "28259",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "にゃんにゃんにゃ～す ピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28259.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "C-024",
+    "no": "28260",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "にゃんにゃんにゃ～す ピンクブーツ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28260.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "C-025",
+    "no": "28261",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "にゃんにゃんにゃ～す ピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28261.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "C-026",
+    "no": "28262",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "? ?",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28262.jpg",
+    "category": "?",
+    "color": "?",
+    "brand": "?",
+    "type": "?",
+    "rarity": "?",
+    "like": null
+  },
+  {
+    "id": "C-027",
+    "no": "28263",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "? ?",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28263.jpg",
+    "category": "?",
+    "color": "?",
+    "brand": "?",
+    "type": "?",
+    "rarity": "?",
+    "like": null
+  },
+  {
+    "id": "C-028",
+    "no": "27994",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "セーラーチア イエローリボントップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27994.jpg",
+    "category": "tops",
+    "color": "yellow",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 600
+  },
+  {
+    "id": "C-029",
+    "no": "27995",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "セーラーチア イエローリボンスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27995.jpg",
+    "category": "bottoms",
+    "color": "light_blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 650
+  },
+  {
+    "id": "C-030",
+    "no": "27996",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "セーラーチア イエローリボンシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27996.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "C-031",
+    "no": "27997",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "セーラーチア イエローリボンヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27997.jpg",
+    "category": "hair_accessory",
+    "color": "yellow",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "C-032",
+    "no": "28023",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "ポップコーンショップ ブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28023.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "C-033",
+    "no": "28024",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "ポップコーンショップ ブルーパンツ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28024.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 600
+  },
+  {
+    "id": "C-034",
+    "no": "28025",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "ポップコーンショップ ブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28025.jpg",
+    "category": "shoes",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 650
+  },
+  {
+    "id": "C-035",
+    "no": "28026",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "ポップコーンショップ ブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28026.jpg",
+    "category": "hair_accessory",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "P-S-031",
+    "no": "28264",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "ハロウィンマジカル パープルトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28264.jpg",
+    "category": "tops",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "P-S-032",
+    "no": "28265",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "ハロウィンマジカル パープルスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28265.jpg",
+    "category": "bottoms",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 800
+  },
+  {
+    "id": "P-S-033",
+    "no": "28266",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "ハロウィンマジカル パープルシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28266.jpg",
+    "category": "shoes",
+    "color": "yellow",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "P-S-034",
+    "no": "28267",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "ハロウィンマジカル パープルヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28267.jpg",
+    "category": "hair_accessory",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "P-020",
+    "no": "28272",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "チョコホイップ クリームトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28272.jpg",
+    "category": "tops",
+    "color": "brown",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 800
+  },
+  {
+    "id": "P-021",
+    "no": "28273",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "チョコホイップ クリームスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28273.jpg",
+    "category": "bottoms",
+    "color": "brown",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "P-022",
+    "no": "28274",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "チョコホイップ クリームシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28274.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "P-023",
+    "no": "28275",
+    "series": "プロモーション",
+    "limited": [
+      "2018年10月～12月",
+      "プリ☆チャンキャスト アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "name": "チョコホイップ クリームヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28275.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "P-S-014",
+    "no": "28084",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "キラッとプリ☆チャン公式ファンブックSEASON2"
+    ],
+    "name": "ノーブルドール アクアトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28084.jpg",
+    "category": "tops",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "P-S-015",
+    "no": "28085",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "キラッとプリ☆チャン公式ファンブックSEASON2"
+    ],
+    "name": "ノーブルドール アクアスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28085.jpg",
+    "category": "bottoms",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "P-S-016",
+    "no": "28086",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "キラッとプリ☆チャン公式ファンブックSEASON2"
+    ],
+    "name": "ノーブルドール アクアシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28086.jpg",
+    "category": "shoes",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 800
+  },
+  {
+    "id": "P-S-017",
+    "no": "28087",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "キラッとプリ☆チャン公式ファンブックSEASON2"
+    ],
+    "name": "ノーブルドール アクアヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28087.jpg",
+    "category": "hair_accessory",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  }
+]

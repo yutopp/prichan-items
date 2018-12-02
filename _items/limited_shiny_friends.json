@@ -1,0 +1,82 @@
+[
+  {
+    "id": "__tmpid-01",
+    "no": "28301",
+    "series": "期間限定",
+    "limited": [
+      "シャイニーフレンズスペシャル大会"
+    ],
+    "range": {
+      "begin": "2018/10/07",
+      "end": "2018/10/28"
+    },
+    "name": "ファンキーファー ゴールドトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28301.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 800
+  },
+  {
+    "id": "__tmpid-02",
+    "no": "28302",
+    "series": "期間限定",
+    "limited": [
+      "シャイニーフレンズスペシャル大会"
+    ],
+    "range": {
+      "begin": "2018/10/07",
+      "end": "2018/10/28"
+    },
+    "name": "ファンキーファー ゴールドスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28302.jpg",
+    "category": "bottoms",
+    "color": "ゴールド",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "__tmpid-03",
+    "no": "28303",
+    "series": "期間限定",
+    "limited": [
+      "シャイニーフレンズスペシャル大会"
+    ],
+    "range": {
+      "begin": "2018/10/07",
+      "end": "2018/10/28"
+    },
+    "name": "ファンキーファー ゴールドブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28303.jpg",
+    "category": "shoes",
+    "color": "green",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "__tmpid-04",
+    "no": "28304",
+    "series": "期間限定",
+    "limited": [
+      "シャイニーフレンズスペシャル大会"
+    ],
+    "range": {
+      "begin": "2018/10/07",
+      "end": "2018/10/28"
+    },
+    "name": "ファンキーファー ゴールドヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28304.jpg",
+    "category": "hair_accessory",
+    "color": "ゴールド",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  }
+]

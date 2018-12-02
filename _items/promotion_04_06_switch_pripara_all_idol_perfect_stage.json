@@ -1,0 +1,206 @@
+[
+  {
+    "id": "SW-001",
+    "no": "27950",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ニンテンドーＳＷＩＴＣＨソフト「プリパラオールアイドルパーフェクトステージ！」同梱特典"
+    ],
+    "name": "そらみ♡スマイル ゴールドサイリウムワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27950.jpg",
+    "category": "one_piece",
+    "color": "gold",
+    "brand": "TwinkleRibbon",
+    "type": "love",
+    "rarity": "SR",
+    "like": 1300
+  },
+  {
+    "id": "SW-002",
+    "no": "27951",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ニンテンドーＳＷＩＴＣＨソフト「プリパラオールアイドルパーフェクトステージ！」同梱特典"
+    ],
+    "name": "そらみ♡スマイル ゴールドサイリウムシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27951.jpg",
+    "category": "shoes",
+    "color": "gold",
+    "brand": "TwinkleRibbon",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "SW-003",
+    "no": "27952",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ニンテンドーＳＷＩＴＣＨソフト「プリパラオールアイドルパーフェクトステージ！」同梱特典"
+    ],
+    "name": "そらみ♡スマイル ゴールドサイリウムヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27952.jpg",
+    "category": "hair_accessory",
+    "color": "gold",
+    "brand": "TwinkleRibbon",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "SW-004",
+    "no": "27956",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ニンテンドーＳＷＩＴＣＨソフト「プリパラオールアイドルパーフェクトステージ！」同梱特典"
+    ],
+    "name": "ガァルマゲドン ゴールドサイリウムワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27956.jpg",
+    "category": "one_piece",
+    "color": "gold",
+    "brand": "LOVEDEVI",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 1300
+  },
+  {
+    "id": "SW-005",
+    "no": "27957",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ニンテンドーＳＷＩＴＣＨソフト「プリパラオールアイドルパーフェクトステージ！」同梱特典"
+    ],
+    "name": "ガァルマゲドン ゴールドサイリウムシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27957.jpg",
+    "category": "shoes",
+    "color": "gold",
+    "brand": "LOVEDEVI",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "SW-006",
+    "no": "27958",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ニンテンドーＳＷＩＴＣＨソフト「プリパラオールアイドルパーフェクトステージ！」同梱特典"
+    ],
+    "name": "ガァルマゲドン ゴールドサイリウムヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27958.jpg",
+    "category": "hair_accessory",
+    "color": "gold",
+    "brand": "LOVEDEVI",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "SW-007",
+    "no": "27953",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ニンテンドーＳＷＩＴＣＨソフト「プリパラオールアイドルパーフェクトステージ！」同梱特典"
+    ],
+    "name": "ドレッシングパフェ ゴールドサイリウムワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27953.jpg",
+    "category": "one_piece",
+    "color": "gold",
+    "brand": "BabyMonster",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 1300
+  },
+  {
+    "id": "SW-008",
+    "no": "27954",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ニンテンドーＳＷＩＴＣＨソフト「プリパラオールアイドルパーフェクトステージ！」同梱特典"
+    ],
+    "name": "ドレッシングパフェ ゴールドサイリウムシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27954.jpg",
+    "category": "shoes",
+    "color": "gold",
+    "brand": "BabyMonster",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "SW-009",
+    "no": "27955",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ニンテンドーＳＷＩＴＣＨソフト「プリパラオールアイドルパーフェクトステージ！」同梱特典"
+    ],
+    "name": "ドレッシングパフェ ゴールドサイリウムヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27955.jpg",
+    "category": "hair_accessory",
+    "color": "gold",
+    "brand": "BabyMonster",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "SW-010",
+    "no": "27959",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ニンテンドーＳＷＩＴＣＨソフト「プリパラオールアイドルパーフェクトステージ！」同梱特典"
+    ],
+    "name": "トリコロール ゴールドサイリウムワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27959.jpg",
+    "category": "one_piece",
+    "color": "gold",
+    "brand": "BrilliantPrince",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 1300
+  },
+  {
+    "id": "SW-011",
+    "no": "27960",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ニンテンドーＳＷＩＴＣＨソフト「プリパラオールアイドルパーフェクトステージ！」同梱特典"
+    ],
+    "name": "トリコロール ゴールドサイリウムシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27960.jpg",
+    "category": "shoes",
+    "color": "gold",
+    "brand": "BrilliantPrince",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "SW-012",
+    "no": "27961",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "ニンテンドーＳＷＩＴＣＨソフト「プリパラオールアイドルパーフェクトステージ！」同梱特典"
+    ],
+    "name": "トリコロール ゴールドサイリウムヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27961.jpg",
+    "category": "hair_accessory",
+    "color": "gold",
+    "brand": "BrilliantPrince",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  }
+]

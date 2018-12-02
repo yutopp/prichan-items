@@ -1,0 +1,138 @@
+[
+  {
+    "id": "YA-013",
+    "no": "28104",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット えもver. アプリ連動"
+    ],
+    "name": "ギンガムハート えもアプリトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28104.jpg",
+    "category": "tops",
+    "color": "yellow",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "YA-014",
+    "no": "28105",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット えもver. アプリ連動"
+    ],
+    "name": "ギンガムハート えもアプリスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28105.jpg",
+    "category": "bottoms",
+    "color": "yellow",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "YA-015",
+    "no": "28106",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット えもver. アプリ連動"
+    ],
+    "name": "ギンガムハート えもアプリシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28106.jpg",
+    "category": "shoes",
+    "color": "yellow",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "YA-016",
+    "no": "28107",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット えもver. アプリ連動"
+    ],
+    "name": "ギンガムハート えもアプリヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28107.jpg",
+    "category": "hair_accessory",
+    "color": "yellow",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "YA-017",
+    "no": "28108",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット えもver. アプリ連動"
+    ],
+    "name": "チアリーダー ブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28108.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "PR",
+    "like": 780
+  },
+  {
+    "id": "YA-018",
+    "no": "28109",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット えもver. アプリ連動"
+    ],
+    "name": "チアリーダー ブルースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28109.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "PR",
+    "like": 830
+  },
+  {
+    "id": "YA-019",
+    "no": "28110",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット えもver. アプリ連動"
+    ],
+    "name": "チアリーダー ブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28110.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "PR",
+    "like": 730
+  },
+  {
+    "id": "YA-020",
+    "no": "28111",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "やってみたアプリセット えもver. アプリ連動"
+    ],
+    "name": "チアリーダー ブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28111.jpg",
+    "category": "hair_accessory",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "PR",
+    "like": 730
+  }
+]

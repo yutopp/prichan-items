@@ -1,0 +1,70 @@
+[
+  {
+    "id": "GY-08",
+    "no": "70338",
+    "series": "ブランド限定",
+    "limited": [
+      "Girl's Yell",
+      "ランク6"
+    ],
+    "name": "ストライプスター ライトブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70338.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "GY-09",
+    "no": "70339",
+    "series": "ブランド限定",
+    "limited": [
+      "Girl's Yell",
+      "ランク6"
+    ],
+    "name": "ストライプスター ライトブルースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70339.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "GY-10",
+    "no": "70340",
+    "series": "ブランド限定",
+    "limited": [
+      "Girl's Yell",
+      "ランク6"
+    ],
+    "name": "ストライプスター ライトブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70340.jpg",
+    "category": "shoes",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "GY-11",
+    "no": "70341",
+    "series": "ブランド限定",
+    "limited": [
+      "Girl's Yell",
+      "ランク6"
+    ],
+    "name": "ストライプスター ライトブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70341.jpg",
+    "category": "hair_accessory",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  }
+]

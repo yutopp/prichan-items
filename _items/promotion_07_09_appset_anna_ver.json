@@ -1,0 +1,138 @@
+[
+  {
+    "id": "YA-021",
+    "no": "28112",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット あんなver. アプリ連動"
+    ],
+    "name": "ギンガムハート あんなアプリトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28112.jpg",
+    "category": "tops",
+    "color": "red",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "YA-022",
+    "no": "28113",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット あんなver. アプリ連動"
+    ],
+    "name": "ギンガムハート あんなアプリスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28113.jpg",
+    "category": "bottoms",
+    "color": "red",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 750
+  },
+  {
+    "id": "YA-023",
+    "no": "28114",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット あんなver. アプリ連動"
+    ],
+    "name": "ギンガムハート あんなアプリシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28114.jpg",
+    "category": "shoes",
+    "color": "red",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "YA-024",
+    "no": "28115",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット あんなver. アプリ連動"
+    ],
+    "name": "ギンガムハート あんなアプリヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28115.jpg",
+    "category": "hair_accessory",
+    "color": "red",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "YA-025",
+    "no": "28116",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット あんなver. アプリ連動"
+    ],
+    "name": "ノーブルドール ピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28116.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "PR",
+    "like": 730
+  },
+  {
+    "id": "YA-026",
+    "no": "28117",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット あんなver. アプリ連動"
+    ],
+    "name": "ノーブルドール ピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28117.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "PR",
+    "like": 780
+  },
+  {
+    "id": "YA-027",
+    "no": "28118",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット あんなver. アプリ連動"
+    ],
+    "name": "ノーブルドール ピンクシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28118.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "PR",
+    "like": 830
+  },
+  {
+    "id": "YA-028",
+    "no": "28119",
+    "series": "プロモーション",
+    "limited": [
+      "2018年7月～9月",
+      "やってみたアプリセット あんなver. アプリ連動"
+    ],
+    "name": "ノーブルドール ピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28119.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "PR",
+    "like": 730
+  }
+]

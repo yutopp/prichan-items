@@ -1,0 +1,170 @@
+[
+  {
+    "id": "SL5-84",
+    "no": "70698",
+    "series": "らぁら&ゆいチャンネル",
+    "limited": [
+      "第5弾",
+      "ゆいチャンネル"
+    ],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "name": "ファンタジータイム サイリウムワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70698.jpg",
+    "category": "one_piece",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 1200
+  },
+  {
+    "id": "SL5-85",
+    "no": "70699",
+    "series": "らぁら&ゆいチャンネル",
+    "limited": [
+      "第5弾",
+      "ゆいチャンネル"
+    ],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "name": "ファンタジータイム サイリウムシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70699.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "SL5-86",
+    "no": "70700",
+    "series": "らぁら&ゆいチャンネル",
+    "limited": [
+      "第5弾",
+      "ゆいチャンネル"
+    ],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "name": "ファンタジータイム サイリウムヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70700.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "SL5-87",
+    "no": "70701",
+    "series": "らぁら&ゆいチャンネル",
+    "limited": [
+      "第5弾",
+      "ゆいチャンネル"
+    ],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "name": "ラビットハート ファンシートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70701.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "SL5-88",
+    "no": "70702",
+    "series": "らぁら&ゆいチャンネル",
+    "limited": [
+      "第5弾",
+      "ゆいチャンネル"
+    ],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "name": "ラビットハート ファンシースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70702.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "SL5-89",
+    "no": "70703",
+    "series": "らぁら&ゆいチャンネル",
+    "limited": [
+      "第5弾",
+      "ゆいチャンネル"
+    ],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "name": "ラビットハート ファンシーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70703.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "SL5-90",
+    "no": "70704",
+    "series": "らぁら&ゆいチャンネル",
+    "limited": [
+      "第5弾",
+      "ゆいチャンネル"
+    ],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "name": "ラビットハート ファンシーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70704.jpg",
+    "category": "hair_accessory",
+    "color": "light_blue",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "SL5-99",
+    "no": "70713",
+    "series": "らぁら&ゆいチャンネル",
+    "limited": [
+      "第5弾",
+      "ゆいチャンネル"
+    ],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "name": "プニコンのぬいぐるみ ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70713.jpg",
+    "category": "pashatto_item",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  }
+]

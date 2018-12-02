@@ -1,0 +1,53 @@
+[
+  {
+    "id": "SH-05",
+    "no": "27980",
+    "series": "ブランド限定",
+    "limited": [
+      "Sweet Honey",
+      "ランク4"
+    ],
+    "name": "アイスクリーム グレープワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27980.jpg",
+    "category": "one_piece",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 1200
+  },
+  {
+    "id": "SH-06",
+    "no": "27981",
+    "series": "ブランド限定",
+    "limited": [
+      "Sweet Honey",
+      "ランク4"
+    ],
+    "name": "アイスクリーム グレープシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27981.jpg",
+    "category": "shoes",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "SH-07",
+    "no": "27982",
+    "series": "ブランド限定",
+    "limited": [
+      "Sweet Honey",
+      "ランク4"
+    ],
+    "name": "アイスクリーム グレープヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27982.jpg",
+    "category": "hair_accessory",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  }
+]

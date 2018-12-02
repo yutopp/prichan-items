@@ -1,0 +1,70 @@
+[
+  {
+    "id": "SH-01",
+    "no": "70019",
+    "series": "ブランド限定",
+    "limited": [
+      "Sweet Honey",
+      "ランク2"
+    ],
+    "name": "ギンガムハート サンレッドトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70019.jpg",
+    "category": "tops",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "SH-02",
+    "no": "70020",
+    "series": "ブランド限定",
+    "limited": [
+      "Sweet Honey",
+      "ランク2"
+    ],
+    "name": "ギンガムハート サンレッドスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70020.jpg",
+    "category": "bottoms",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "SH-03",
+    "no": "70021",
+    "series": "ブランド限定",
+    "limited": [
+      "Sweet Honey",
+      "ランク2"
+    ],
+    "name": "ギンガムハート サンレッドシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70021.jpg",
+    "category": "shoes",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "SH-04",
+    "no": "70022",
+    "series": "ブランド限定",
+    "limited": [
+      "Sweet Honey",
+      "ランク2"
+    ],
+    "name": "ギンガムハート サンレッドヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70022.jpg",
+    "category": "hair_accessory",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  }
+]

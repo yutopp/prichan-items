@@ -1,0 +1,70 @@
+[
+  {
+    "id": "UQ-04",
+    "no": "70439",
+    "series": "ブランド限定",
+    "limited": [
+      "Universe Queen",
+      "ランク4"
+    ],
+    "name": "キラキラフィーバー ピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70439.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "UQ-05",
+    "no": "70440",
+    "series": "ブランド限定",
+    "limited": [
+      "Universe Queen",
+      "ランク4"
+    ],
+    "name": "キラキラフィーバー ピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70440.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "UQ-06",
+    "no": "70441",
+    "series": "ブランド限定",
+    "limited": [
+      "Universe Queen",
+      "ランク4"
+    ],
+    "name": "キラキラフィーバー ピンクシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70441.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "UQ-07",
+    "no": "70442",
+    "series": "ブランド限定",
+    "limited": [
+      "Universe Queen",
+      "ランク4"
+    ],
+    "name": "キラキラフィーバー ピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70442.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  }
+]

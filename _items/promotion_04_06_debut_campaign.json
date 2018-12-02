@@ -1,0 +1,70 @@
+[
+  {
+    "id": "P-001",
+    "no": "27983",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "キラッとプリ☆チャン　デビューやってみた！キャンペーン！"
+    ],
+    "name": "プリ☆チャンユニフォーム ピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27983.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "PrismStone",
+    "type": "love",
+    "rarity": "R",
+    "like": 550
+  },
+  {
+    "id": "P-002",
+    "no": "27984",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "キラッとプリ☆チャン　デビューやってみた！キャンペーン！"
+    ],
+    "name": "プリ☆チャンユニフォーム ピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27984.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "PrismStone",
+    "type": "love",
+    "rarity": "R",
+    "like": 500
+  },
+  {
+    "id": "P-003",
+    "no": "27985",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "キラッとプリ☆チャン　デビューやってみた！キャンペーン！"
+    ],
+    "name": "プリ☆チャンユニフォーム ピンクシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27985.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "PrismStone",
+    "type": "love",
+    "rarity": "R",
+    "like": 450
+  },
+  {
+    "id": "P-004",
+    "no": "27986",
+    "series": "プロモーション",
+    "limited": [
+      "2018年4月～6月",
+      "キラッとプリ☆チャン　デビューやってみた！キャンペーン！"
+    ],
+    "name": "プリ☆チャンユニフォーム ピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27986.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "PrismStone",
+    "type": "love",
+    "rarity": "R",
+    "like": 450
+  }
+]

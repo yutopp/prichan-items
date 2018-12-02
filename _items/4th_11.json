@@ -1,0 +1,338 @@
+[
+  {
+    "id": "PCH4-62",
+    "no": "70353",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ミラクル☆キラッツ グループキラッとワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70353.jpg",
+    "category": "one_piece",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "KR",
+    "like": 1900
+  },
+  {
+    "id": "PCH4-63",
+    "no": "70354",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ミラクル☆キラッツ グループキラッとシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70354.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "KR",
+    "like": 900
+  },
+  {
+    "id": "PCH4-64",
+    "no": "70355",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ミラクル☆キラッツ グループキラッとヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70355.jpg",
+    "category": "accessory",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "KR",
+    "like": 900
+  },
+  {
+    "id": "P-029",
+    "no": "28299",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ポップミラクル☆キラッツ グループキラッとシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28299.jpg",
+    "category": "shoes",
+    "color": "light_blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "KR",
+    "like": 900
+  },
+  {
+    "id": "PCH4-65",
+    "no": "70360",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ホイップいちご スイートトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70360.jpg",
+    "category": "tops",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 850
+  },
+  {
+    "id": "PCH4-66",
+    "no": "70361",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ホイップいちご スイートスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70361.jpg",
+    "category": "skirt",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 800
+  },
+  {
+    "id": "PCH4-67",
+    "no": "70362",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ホイップいちご スイートシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70362.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 750
+  },
+  {
+    "id": "PCH4-68",
+    "no": "70363",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ホイップいちご スイートヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70363.jpg",
+    "category": "accessory",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 750
+  },
+  {
+    "id": "PCH4-69",
+    "no": "70459",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ホイップいちご ベリートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70459.jpg",
+    "category": "tops",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 750
+  },
+  {
+    "id": "PCH4-70",
+    "no": "70460",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ホイップいちご ベリースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70460.jpg",
+    "category": "skirt",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 850
+  },
+  {
+    "id": "PCH4-71",
+    "no": "70461",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ホイップいちご ベリーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70461.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 800
+  },
+  {
+    "id": "PCH4-72",
+    "no": "70462",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ホイップいちご ベリーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70462.jpg",
+    "category": "accessory",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "PR",
+    "like": 750
+  },
+  {
+    "id": "PCH4-73",
+    "no": "70375",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ホイップいちご ソーダトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70375.jpg",
+    "category": "tops",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "PCH4-74",
+    "no": "70376",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ホイップいちご ソーダスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70376.jpg",
+    "category": "skirt",
+    "color": "light_blue",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "PCH4-75",
+    "no": "70377",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ホイップいちご ソーダシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70377.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PCH4-76",
+    "no": "70378",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ホイップいちご ソーダヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70378.jpg",
+    "category": "accessory",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PCH4-77",
+    "no": "70379",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "キラキラフィーバー イエロートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70379.jpg",
+    "category": "tops",
+    "color": "yellow",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PCH4-78",
+    "no": "70380",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "キラキラフィーバー イエロースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70380.jpg",
+    "category": "skirt",
+    "color": "yellow",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "PCH4-79",
+    "no": "70381",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "キラキラフィーバー イエローシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70381.jpg",
+    "category": "shoes",
+    "color": "black",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "PCH4-80",
+    "no": "70382",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "キラキラフィーバー イエローヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70382.jpg",
+    "category": "accessory",
+    "color": "black",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PCH4-81",
+    "no": "70420",
+    "series": "第4弾",
+    "limited": [
+      "11月チャンネル"
+    ],
+    "name": "ロリータピンク パラソル",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70420.jpg",
+    "category": "pashatto_item",
+    "color": "pink",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  }
+]

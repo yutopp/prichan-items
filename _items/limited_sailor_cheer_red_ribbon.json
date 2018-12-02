@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PCH2-73",
+    "no": "70081",
+    "series": "期間限定",
+    "limited": [
+      "セーラーチアレッドリボンライブ"
+    ],
+    "range": {
+      "begin": "2018/07/05",
+      "end": "2018/08/01"
+    },
+    "name": "セーラーチア レッドリボントップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70081.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PCH2-74",
+    "no": "70082",
+    "series": "期間限定",
+    "limited": [
+      "セーラーチアレッドリボンライブ"
+    ],
+    "range": {
+      "begin": "2018/07/05",
+      "end": "2018/08/01"
+    },
+    "name": "セーラーチア レッドリボンスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70082.jpg",
+    "category": "bottoms",
+    "color": "red",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "PCH2-75",
+    "no": "70083",
+    "series": "期間限定",
+    "limited": [
+      "セーラーチアレッドリボンライブ"
+    ],
+    "range": {
+      "begin": "2018/07/05",
+      "end": "2018/08/01"
+    },
+    "name": "セーラーチア レッドリボンシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70083.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "PCH2-76",
+    "no": "70084",
+    "series": "期間限定",
+    "limited": [
+      "セーラーチアレッドリボンライブ"
+    ],
+    "range": {
+      "begin": "2018/07/05",
+      "end": "2018/08/01"
+    },
+    "name": "セーラーチア レッドリボンヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70084.jpg",
+    "category": "hair_accessory",
+    "color": "red",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  }
+]

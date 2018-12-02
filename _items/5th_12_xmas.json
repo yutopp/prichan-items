@@ -1,0 +1,138 @@
+[
+  {
+    "id": "PCH5-55",
+    "no": "70558",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル",
+      "クリスマスコーデキャンペーン"
+    ],
+    "name": "クリスマスサンタ レッドトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70558.jpg",
+    "category": "tops",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "PCH5-56",
+    "no": "70559",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル",
+      "クリスマスコーデキャンペーン"
+    ],
+    "name": "クリスマスサンタ レッドスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70559.jpg",
+    "category": "bottoms",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PCH5-57",
+    "no": "70560",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル",
+      "クリスマスコーデキャンペーン"
+    ],
+    "name": "クリスマスサンタ レッドシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70560.jpg",
+    "category": "shoes",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "PCH5-58",
+    "no": "70561",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル",
+      "クリスマスコーデキャンペーン"
+    ],
+    "name": "クリスマスサンタ レッドヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70561.jpg",
+    "category": "hair_accessory",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PCH5-59",
+    "no": "70562",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル",
+      "クリスマスコーデキャンペーン"
+    ],
+    "name": "クリスマスサンタ ホワイトトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70562.jpg",
+    "category": "tops",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  {
+    "id": "PCH5-60",
+    "no": "70563",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル",
+      "クリスマスコーデキャンペーン"
+    ],
+    "name": "クリスマスサンタ ホワイトスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70563.jpg",
+    "category": "bottoms",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  {
+    "id": "PCH5-61",
+    "no": "70564",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル",
+      "クリスマスコーデキャンペーン"
+    ],
+    "name": "クリスマスサンタ ホワイトシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70564.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  {
+    "id": "PCH5-62",
+    "no": "70565",
+    "series": "第5弾",
+    "limited": [
+      "12月チャンネル",
+      "クリスマスコーデキャンペーン"
+    ],
+    "name": "クリスマスサンタ ホワイトヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70565.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  }
+]
