@@ -87,11 +87,13 @@ const brandFromURIPath = s => {
     case "logo-twinkleribbon.png":
       return "TwinkleRibbon";
     case "logo-lovedevi.png":
-      return "LOVEDEVI"
+      return "LOVEDEVI";
     case "logo-babymonster.png":
-      return "BabyMonster"
+      return "BabyMonster";
     case "logo-brilliantprince.png":
-      return "BrilliantPrince"
+      return "BrilliantPrince";
+    case "logo-holictrick.png":
+      return "HolicTrick";
     case "logo-q.png":
       return "?";
     case "%brand%":
@@ -113,6 +115,8 @@ const typeFromURIPath = s => {
       return "pop";
     case "icon-q.png":
       return "?";
+    case "%genre%":
+      return "";
     default:
       return s;
   }
