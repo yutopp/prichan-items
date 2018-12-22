@@ -4,13 +4,6 @@ const jquery = require("jquery");
 const fs = require("fs");
 const path = require("path")
 
-const doRequest = async () => {
-  const options = {
-    uri: 'https://prichan.jp/items/'
-  };
-  return await rp(options);
-};
-
 const collectSeriesList = htmlString => {
   var seriesList = [];
 
@@ -27,9 +20,14 @@ const collectSeriesList = htmlString => {
     const title = a.text();
     const addr = content.attr("href");
 
+    if (title == "フォロチケ") {
+      return;
+    }
+
     let series = {
       title: title,
       addr: addr,
+      name: addr.match(/(.+)\.html/)[1],
       sub: [],
     };
 
@@ -47,6 +45,7 @@ const collectSeriesList = htmlString => {
         series.sub.push({
           title: title,
           addr: addr,
+          name: addr.match(/(.+)\.html/)[1],
         });
       });
     }
@@ -56,6 +55,13 @@ const collectSeriesList = htmlString => {
 
   return seriesList;
 };
+
+const collectSeriesListFromWeb = async () => {
+  const htmlString = await rp({
+    uri: `https://prichan.jp/items/index.html`
+  });
+  return collectSeriesList(htmlString);
+}
 
 const collectItemGroups = htmlString => {
   var seriesList = [];
@@ -89,7 +95,7 @@ const collectItemGroups = htmlString => {
   return groups;
 }
 
-const collectGroupSpecs = jsString => {
+const collectGroupSpecs = (jsString, filterBase) => {
   return jsString.split(/\r|\n/).map(s => {
     return s.match(/'\#([0-9a-zA-Z-]+)'\)\.before\('(.*)'\)/);
   }).filter(r => {
@@ -101,30 +107,64 @@ const collectGroupSpecs = jsString => {
     const dom = new jsdom.JSDOM(groupTitle);
     const $ = jquery(dom.window);
 
-    let filter = [];
-    let range = {
-      begin: null,
-      end: null,
-    };
-
     const titleText = $("span").html();
+    //filter.push(titleText); // TODO: remove
+
+    let filter = (filterBase || []).slice();
+    let range = null;
+
     const titleTexts = titleText.split(/ |　/);
     titleTexts.forEach(text => {
-      filter.push(text);
-
-      let rangeR = text.match(/期間限定(([0-9]+)年([0-9]+)月([0-9]+)日)～(([0-9]+)年([0-9]+)月([0-9]+)日)?/);
+      let rangeR = text.match(/(([0-9]+)年([0-9]+)月([0-9]+)日)～((([0-9]+)年)?([0-9]+)月([0-9]+)日)?/);
       if (rangeR != null) {
-        console.log(rangeR);
+        //console.error(rangeR);
+
+        range = {
+          begin: null,
+          end: null,
+        };
+
         if (rangeR[1] != undefined) {
           range.begin = `${rangeR[2]}/${rangeR[3]}/${rangeR[4]}`
         }
         if (rangeR[5] != undefined) {
-          range.end = `${rangeR[6]}/${rangeR[7]}/${rangeR[8]}`
+          let year = rangeR[7] || rangeR[2];
+          range.end = `${year}/${rangeR[8]}/${rangeR[9]}`
         }
         return;
       }
 
-      //filter.push(text);
+      if (text.match(/.*弾$/) != null) {
+        return;
+      }
+
+      let monthR = text.match(/([0-9]+)月チャンネル・([0-9]+)月チャンネル$/)
+      if (monthR != null) {
+        filter.push(`${monthR[1]}月チャンネル`);
+        filter.push(`${monthR[2]}月チャンネル`);
+        return;
+      }
+
+      if (text.match(/チャンネル$/) != null) {
+        let prev = filter[0] || "";
+        if (prev.match(/^[a-z']+$/i) != null) {
+          filter.shift();
+          filter.push(`${prev} ${text}`);
+          return;
+        }
+      }
+
+      let specialR = text.match(/^(.+)(コラボ|キャンペーン)/)
+      if (specialR != null) {
+        filter.push(`${specialR[1]}${specialR[2]}`);
+        return;
+      }
+
+      text = text.replace(/^第([0-9]+)弾/, "");
+      text = text.replace(/限定$/, "");
+      if (text != "") {
+        filter.push(text);
+      }
     });
 
     return {
@@ -156,61 +196,98 @@ const toItemsTemplate = (title, itemGroups, groupSpecs) => {
   });
   //console.log(itemGroupsList);
 
-  return groupSpecs.map(spec => {
+  if (groupSpecs.length > 0) {
+    return groupSpecs.map(spec => {
+      let items = itemGroupsList
+          .filter(itemGroups => itemGroups.tag == spec.id)
+          .map(itemGroups => itemGroups.items)
+          .flat();
+
+      return {
+        title: title,
+        filter: spec.filter,
+        range: spec.range,
+        itemNOs: items,
+      };
+    });
+  } else {
     let items = itemGroupsList
-        .filter(itemGroups => itemGroups.tag == spec.id)
         .map(itemGroups => itemGroups.items)
         .flat();
-
-    return {
-      title: title,
-      filter: spec.filter,
-      range: spec.range,
-      itemNOs: items,
-    };
-  });
+    return [
+      {
+        title: title,
+        filter: [],
+        range: null,
+        itemNOs: items,
+      }
+    ];
+  }
 };
 
-const makeItemsTemplate = (title, htmlString, jsString) => {
+const makeItemsTemplate = (title, htmlString, jsString, filter) => {
   const itemGroups = collectItemGroups(htmlString);
-  //console.error(itemGroups);
-  const groupSpecs = collectGroupSpecs(jsString);
-  //console.error(groupSpecs);
+  //console.log(itemGroups);
+  const groupSpecs = collectGroupSpecs(jsString, filter);
+  //console.log(groupSpecs);
 
   return toItemsTemplate(title, itemGroups, groupSpecs);
 };
 
-const makeItemsTemplateFromWeb = async (title, path) => {
+const makeItemsTemplateFromWeb = async (title, path, filter) => {
   const htmlString = await rp({
     uri: `https://prichan.jp/items/${path}.html`
   });
   const jsString = await rp({
     uri: `https://prichan.jp/items/js/${path}.js`
   });
-  return makeItemsTemplate(title, htmlString, jsString);
+  return makeItemsTemplate(title, htmlString, jsString, filter);
 };
 
-/*
-  const ;
-return await rp(options);
-*/
+const getAndSaveTemplate = async (title, name, filter) => {
+  let template = await makeItemsTemplateFromWeb(title, name, filter);
+  let text = JSON.stringify(template, null, 2);
+  console.log(text);
+  let filePath = path.join('_build', '_templates', `${name}.json`);
+  fs.writeFileSync(filePath, text);
 
-(async () => {
-  const f = fs.readFileSync("a.html", "utf8");
-  const seriesList = collectSeriesList(f);
-  seriesList.forEach(series => {
-    console.log(series);
+  return filePath;
+}
+
+const getAndSaveAllTemplates = async (titleFilter) => {
+  let templatePaths = [];
+
+  const seriesList = (await collectSeriesListFromWeb()).filter(l => {
+    if (titleFilter) {
+      return titleFilter.includes(l.title);
+    } else {
+      return true;
+    }
   });
-})();
+
+  for(let series of seriesList) {
+    if (series.sub.length > 0) {
+      for(let sub of series.sub) {
+        console.log(`=> ${series.title}: ${sub.name}`);
+        let p = await getAndSaveTemplate(series.title, sub.name, [sub.title]);
+        templatePaths.push(p);
+      }
+    } else {
+      console.log(`=> ${series.title}: ${series.name}`);
+      let p = await getAndSaveTemplate(series.title, series.name, []);
+      templatePaths.push(p);
+    }
+  };
+
+  return templatePaths;
+}
 
 (async () => {
+  /*const seriesList = await collectSeriesListFromWeb(["ブランド限定"]);
+  console.log(seriesList);
   const f = fs.readFileSync("b.html", "utf8");
   const g = fs.readFileSync("b.js", "utf8");
   console.log(makeItemsTemplate("第5弾", f, g));
-})();
-
-/*
-(async () => {
-  console.log(await makeItemsTemplateFromWeb("第5弾", "5th_12"));
-})();
 */
+  await getAndSaveAllTemplates();
+})();
