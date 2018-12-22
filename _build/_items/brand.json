@@ -1,0 +1,1352 @@
+{
+  "27980": {
+    "series": "ブランド限定",
+    "filter": [
+      "Sweet Honey（スイートハニー）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SH-05",
+    "name": "アイスクリーム グレープワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27980.jpg",
+    "category": "one_piece",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 1200
+  },
+  "27981": {
+    "series": "ブランド限定",
+    "filter": [
+      "Sweet Honey（スイートハニー）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SH-06",
+    "name": "アイスクリーム グレープシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27981.jpg",
+    "category": "shoes",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "27982": {
+    "series": "ブランド限定",
+    "filter": [
+      "Sweet Honey（スイートハニー）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SH-07",
+    "name": "アイスクリーム グレープヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27982.jpg",
+    "category": "hair_accessory",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "28012": {
+    "series": "ブランド限定",
+    "filter": [
+      "Girl's Yell（ガールズエール）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "GY-04",
+    "name": "ポップコーンショップ グリーントップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28012.jpg",
+    "category": "tops",
+    "color": "green",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 650
+  },
+  "28013": {
+    "series": "ブランド限定",
+    "filter": [
+      "Girl's Yell（ガールズエール）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "GY-05",
+    "name": "ポップコーンショップ グリーンパンツ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28013.jpg",
+    "category": "bottoms",
+    "color": "green",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  },
+  "28014": {
+    "series": "ブランド限定",
+    "filter": [
+      "Girl's Yell（ガールズエール）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "GY-06",
+    "name": "ポップコーンショップ グリーンシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28014.jpg",
+    "category": "shoes",
+    "color": "green",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28015": {
+    "series": "ブランド限定",
+    "filter": [
+      "Girl's Yell（ガールズエール）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "GY-07",
+    "name": "ポップコーンショップ グリーンヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28015.jpg",
+    "category": "hair_accessory",
+    "color": "green",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70019": {
+    "series": "ブランド限定",
+    "filter": [
+      "Sweet Honey（スイートハニー）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SH-01",
+    "name": "ギンガムハート サンレッドトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70019.jpg",
+    "category": "tops",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70020": {
+    "series": "ブランド限定",
+    "filter": [
+      "Sweet Honey（スイートハニー）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SH-02",
+    "name": "ギンガムハート サンレッドスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70020.jpg",
+    "category": "bottoms",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70021": {
+    "series": "ブランド限定",
+    "filter": [
+      "Sweet Honey（スイートハニー）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SH-03",
+    "name": "ギンガムハート サンレッドシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70021.jpg",
+    "category": "shoes",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70022": {
+    "series": "ブランド限定",
+    "filter": [
+      "Sweet Honey（スイートハニー）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SH-04",
+    "name": "ギンガムハート サンレッドヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70022.jpg",
+    "category": "hair_accessory",
+    "color": "red",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70069": {
+    "series": "ブランド限定",
+    "filter": [
+      "Girl's Yell（ガールズエール）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "GY-01",
+    "name": "バルーンブルーデニム サロペット",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70069.jpg",
+    "category": "one_piece",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 1200
+  },
+  "70070": {
+    "series": "ブランド限定",
+    "filter": [
+      "Girl's Yell（ガールズエール）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "GY-02",
+    "name": "バルーンブルーデニム シューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70070.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70071": {
+    "series": "ブランド限定",
+    "filter": [
+      "Girl's Yell（ガールズエール）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "GY-03",
+    "name": "バルーンブルーデニム ヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70071.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70166": {
+    "series": "ブランド限定",
+    "filter": [
+      "Dolly Waltz（ドーリーワルツ）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "DW-01",
+    "name": "セーラーマリン パステルピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70166.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70167": {
+    "series": "ブランド限定",
+    "filter": [
+      "Dolly Waltz（ドーリーワルツ）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "DW-02",
+    "name": "セーラーマリン パステルピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70167.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70168": {
+    "series": "ブランド限定",
+    "filter": [
+      "Dolly Waltz（ドーリーワルツ）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "DW-03",
+    "name": "セーラーマリン パステルピンクシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70168.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70169": {
+    "series": "ブランド限定",
+    "filter": [
+      "Dolly Waltz（ドーリーワルツ）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "DW-05",
+    "name": "ピクニックギンガム ブルーケープワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70169.jpg",
+    "category": "one_piece",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 1200
+  },
+  "70170": {
+    "series": "ブランド限定",
+    "filter": [
+      "Dolly Waltz（ドーリーワルツ）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "DW-06",
+    "name": "ピクニックギンガム ブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70170.jpg",
+    "category": "shoes",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70171": {
+    "series": "ブランド限定",
+    "filter": [
+      "Dolly Waltz（ドーリーワルツ）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "DW-07",
+    "name": "ピクニックギンガム ブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70171.jpg",
+    "category": "hair_accessory",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70172": {
+    "series": "ブランド限定",
+    "filter": [
+      "Romance Beat（ロマンスビート）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "RB-01",
+    "name": "スターダスト レザーピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70172.jpg",
+    "category": "tops",
+    "color": "",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70173": {
+    "series": "ブランド限定",
+    "filter": [
+      "Romance Beat（ロマンスビート）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "RB-02",
+    "name": "スターダスト レザーピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70173.jpg",
+    "category": "bottoms",
+    "color": "",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70174": {
+    "series": "ブランド限定",
+    "filter": [
+      "Romance Beat（ロマンスビート）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "RB-03",
+    "name": "スターダスト レザーピンクブーツ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70174.jpg",
+    "category": "shoes",
+    "color": "",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70175": {
+    "series": "ブランド限定",
+    "filter": [
+      "Romance Beat（ロマンスビート）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "RB-04",
+    "name": "スターダスト レザーピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70175.jpg",
+    "category": "hair_accessory",
+    "color": "",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70176": {
+    "series": "ブランド限定",
+    "filter": [
+      "Romance Beat（ロマンスビート）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "RB-05",
+    "name": "ミュージシャン イエロージャケット",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70176.jpg",
+    "category": "tops",
+    "color": "",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70177": {
+    "series": "ブランド限定",
+    "filter": [
+      "Romance Beat（ロマンスビート）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "RB-06",
+    "name": "ミュージシャン イエローデニム",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70177.jpg",
+    "category": "bottoms",
+    "color": "",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70178": {
+    "series": "ブランド限定",
+    "filter": [
+      "Romance Beat（ロマンスビート）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "RB-07",
+    "name": "ミュージシャン イエローシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70178.jpg",
+    "category": "shoes",
+    "color": "",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70179": {
+    "series": "ブランド限定",
+    "filter": [
+      "Romance Beat（ロマンスビート）チャンネル",
+      "ランク４"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "RB-08",
+    "name": "ミュージシャン イエローハット",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70179.jpg",
+    "category": "hair_accessory",
+    "color": "",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70186": {
+    "series": "ブランド限定",
+    "filter": [
+      "Dolly Waltz（ドーリーワルツ）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "DW-04",
+    "name": "セーラーマリン パステルピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70186.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70327": {
+    "series": "ブランド限定",
+    "filter": [
+      "Secret Alice（シークレットアリス）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SA-01",
+    "name": "ワイズガール インディゴトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70327.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70328": {
+    "series": "ブランド限定",
+    "filter": [
+      "Secret Alice（シークレットアリス）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SA-02",
+    "name": "ワイズガール インディゴスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70328.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70329": {
+    "series": "ブランド限定",
+    "filter": [
+      "Secret Alice（シークレットアリス）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SA-03",
+    "name": "ワイズガール インディゴシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70329.jpg",
+    "category": "shoes",
+    "color": "blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70330": {
+    "series": "ブランド限定",
+    "filter": [
+      "Secret Alice（シークレットアリス）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SA-04",
+    "name": "ワイズガール インディゴヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70330.jpg",
+    "category": "hair_accessory",
+    "color": "blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70331": {
+    "series": "ブランド限定",
+    "filter": [
+      "Secret Alice（シークレットアリス）チャンネル",
+      "ランク4"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SA-05",
+    "name": "クラシックハート パープルトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70331.jpg",
+    "category": "tops",
+    "color": "purple",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70332": {
+    "series": "ブランド限定",
+    "filter": [
+      "Secret Alice（シークレットアリス）チャンネル",
+      "ランク4"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SA-06",
+    "name": "クラシックハート パープルスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70332.jpg",
+    "category": "bottoms",
+    "color": "purple",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70333": {
+    "series": "ブランド限定",
+    "filter": [
+      "Secret Alice（シークレットアリス）チャンネル",
+      "ランク4"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SA-07",
+    "name": "クラシックハート パープルシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70333.jpg",
+    "category": "shoes",
+    "color": "purple",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70334": {
+    "series": "ブランド限定",
+    "filter": [
+      "Secret Alice（シークレットアリス）チャンネル",
+      "ランク4"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SA-08",
+    "name": "クラシックハート パープルヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70334.jpg",
+    "category": "hair_accessory",
+    "color": "purple",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70335": {
+    "series": "ブランド限定",
+    "filter": [
+      "Sweet Honey（スイートハニー）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SH-08",
+    "name": "ミントギンガム サマーワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70335.jpg",
+    "category": "one_piece",
+    "color": "green",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70336": {
+    "series": "ブランド限定",
+    "filter": [
+      "Sweet Honey（スイートハニー）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SH-09",
+    "name": "ミントギンガム サマーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70336.jpg",
+    "category": "shoes",
+    "color": "green",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70337": {
+    "series": "ブランド限定",
+    "filter": [
+      "Sweet Honey（スイートハニー）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SH-10",
+    "name": "ミントギンガム むぎわらハット",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70337.jpg",
+    "category": "hair_accessory",
+    "color": "green",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70338": {
+    "series": "ブランド限定",
+    "filter": [
+      "Girl's Yell（ガールズエール）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "GY-08",
+    "name": "ストライプスター ライトブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70338.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70339": {
+    "series": "ブランド限定",
+    "filter": [
+      "Girl's Yell（ガールズエール）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "GY-09",
+    "name": "ストライプスター ライトブルースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70339.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70340": {
+    "series": "ブランド限定",
+    "filter": [
+      "Girl's Yell（ガールズエール）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "GY-10",
+    "name": "ストライプスター ライトブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70340.jpg",
+    "category": "shoes",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70341": {
+    "series": "ブランド限定",
+    "filter": [
+      "Girl's Yell（ガールズエール）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "GY-11",
+    "name": "ストライプスター ライトブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70341.jpg",
+    "category": "hair_accessory",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70391": {
+    "series": "ブランド限定",
+    "filter": [
+      "Romance Beat（ロマンスビート）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "RB-09",
+    "name": "ペイントパターン ブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70391.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70392": {
+    "series": "ブランド限定",
+    "filter": [
+      "Romance Beat（ロマンスビート）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "RB-10",
+    "name": "ペイントパターン ブルースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70392.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70393": {
+    "series": "ブランド限定",
+    "filter": [
+      "Romance Beat（ロマンスビート）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "RB-11",
+    "name": "ペイントパターン ブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70393.jpg",
+    "category": "shoes",
+    "color": "black",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70394": {
+    "series": "ブランド限定",
+    "filter": [
+      "Romance Beat（ロマンスビート）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "RB-12",
+    "name": "ペイントパターン ブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70394.jpg",
+    "category": "hair_accessory",
+    "color": "blue",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70439": {
+    "series": "ブランド限定",
+    "filter": [
+      "Universe Queen（ユニバースクイーン）チャンネル",
+      "ランク4"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "UQ-04",
+    "name": "キラキラフィーバー ピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70439.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70440": {
+    "series": "ブランド限定",
+    "filter": [
+      "Universe Queen（ユニバースクイーン）チャンネル",
+      "ランク4"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "UQ-05",
+    "name": "キラキラフィーバー ピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70440.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70441": {
+    "series": "ブランド限定",
+    "filter": [
+      "Universe Queen（ユニバースクイーン）チャンネル",
+      "ランク4"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "UQ-06",
+    "name": "キラキラフィーバー ピンクシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70441.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70442": {
+    "series": "ブランド限定",
+    "filter": [
+      "Universe Queen（ユニバースクイーン）チャンネル",
+      "ランク4"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "UQ-07",
+    "name": "キラキラフィーバー ピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70442.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70443": {
+    "series": "ブランド限定",
+    "filter": [
+      "Universe Queen（ユニバースクイーン）チャンネル",
+      "ランク2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "UQ-01",
+    "name": "ねこうらないし フレッシュワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70443.jpg",
+    "category": "one_piece",
+    "color": "green",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 1200
+  },
+  "70444": {
+    "series": "ブランド限定",
+    "filter": [
+      "Universe Queen（ユニバースクイーン）チャンネル",
+      "ランク2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "UQ-02",
+    "name": "ねこうらないし フレッシュシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70444.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70445": {
+    "series": "ブランド限定",
+    "filter": [
+      "Universe Queen（ユニバースクイーン）チャンネル",
+      "ランク2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "UQ-03",
+    "name": "ねこうらないし フレッシュヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70445.jpg",
+    "category": "hair_accessory",
+    "color": "green",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70450": {
+    "series": "ブランド限定",
+    "filter": [
+      "Dolly Waltz（ドーリーワルツ）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "DW-08",
+    "name": "レトロストライプ ピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70450.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70451": {
+    "series": "ブランド限定",
+    "filter": [
+      "Dolly Waltz（ドーリーワルツ）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "DW-09",
+    "name": "レトロストライプ ピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70451.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70452": {
+    "series": "ブランド限定",
+    "filter": [
+      "Dolly Waltz（ドーリーワルツ）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "DW-10",
+    "name": "レトロストライプ ピンクシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70452.jpg",
+    "category": "shoes",
+    "color": "red",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70453": {
+    "series": "ブランド限定",
+    "filter": [
+      "Dolly Waltz（ドーリーワルツ）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "DW-11",
+    "name": "レトロストライプ ピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70453.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70598": {
+    "series": "ブランド限定",
+    "filter": [
+      "Precious Muse（プレシャスミューズ）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PM-01",
+    "name": "エレガントパーティー イエロートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70598.jpg",
+    "category": "tops",
+    "color": "yellow",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70599": {
+    "series": "ブランド限定",
+    "filter": [
+      "Precious Muse（プレシャスミューズ）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PM-02",
+    "name": "エレガントパーティー イエロースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70599.jpg",
+    "category": "bottoms",
+    "color": "yellow",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70600": {
+    "series": "ブランド限定",
+    "filter": [
+      "Precious Muse（プレシャスミューズ）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PM-03",
+    "name": "エレガントパーティー イエローシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70600.jpg",
+    "category": "shoes",
+    "color": "yellow",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70601": {
+    "series": "ブランド限定",
+    "filter": [
+      "Precious Muse（プレシャスミューズ）チャンネル",
+      "ランク２"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PM-04",
+    "name": "エレガントパーティー イエローヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70601.jpg",
+    "category": "hair_accessory",
+    "color": "yellow",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70602": {
+    "series": "ブランド限定",
+    "filter": [
+      "Precious Muse（プレシャスミューズ）チャンネル",
+      "ランク4"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PM-05",
+    "name": "ドレッシーストライプ ブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70602.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70603": {
+    "series": "ブランド限定",
+    "filter": [
+      "Precious Muse（プレシャスミューズ）チャンネル",
+      "ランク4"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PM-06",
+    "name": "ドレッシーストライプ ブルースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70603.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70604": {
+    "series": "ブランド限定",
+    "filter": [
+      "Precious Muse（プレシャスミューズ）チャンネル",
+      "ランク4"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PM-07",
+    "name": "ドレッシーストライプ ブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70604.jpg",
+    "category": "shoes",
+    "color": "blue",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70605": {
+    "series": "ブランド限定",
+    "filter": [
+      "Precious Muse（プレシャスミューズ）チャンネル",
+      "ランク4"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PM-08",
+    "name": "ドレッシーストライプ ブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70605.jpg",
+    "category": "hair_accessory",
+    "color": "blue",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70606": {
+    "series": "ブランド限定",
+    "filter": [
+      "Secret Alice（シークレットアリス）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SA-09",
+    "name": "クロックモダン パープルトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70606.jpg",
+    "category": "tops",
+    "color": "purple",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70607": {
+    "series": "ブランド限定",
+    "filter": [
+      "Secret Alice（シークレットアリス）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SA-10",
+    "name": "クロックモダン パープルスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70607.jpg",
+    "category": "bottoms",
+    "color": "purple",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70608": {
+    "series": "ブランド限定",
+    "filter": [
+      "Secret Alice（シークレットアリス）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SA-11",
+    "name": "クロックモダン パープルシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70608.jpg",
+    "category": "shoes",
+    "color": "black",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70609": {
+    "series": "ブランド限定",
+    "filter": [
+      "Secret Alice（シークレットアリス）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "SA-12",
+    "name": "クロックモダン パープルヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70609.jpg",
+    "category": "hair_accessory",
+    "color": "black",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70610": {
+    "series": "ブランド限定",
+    "filter": [
+      "Universe Queen（ユニバースクイーン）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "UQ-08",
+    "name": "ファンキーファー グリーントップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70610.jpg",
+    "category": "tops",
+    "color": "red",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70611": {
+    "series": "ブランド限定",
+    "filter": [
+      "Universe Queen（ユニバースクイーン）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "UQ-09",
+    "name": "ファンキーファー グリーンパンツ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70611.jpg",
+    "category": "bottoms",
+    "color": "green",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70612": {
+    "series": "ブランド限定",
+    "filter": [
+      "Universe Queen（ユニバースクイーン）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "UQ-10",
+    "name": "ファンキーファー グリーンシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70612.jpg",
+    "category": "shoes",
+    "color": "green",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70613": {
+    "series": "ブランド限定",
+    "filter": [
+      "Universe Queen（ユニバースクイーン）チャンネル",
+      "ランク6"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "UQ-11",
+    "name": "ファンキーファー グリーンヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70613.jpg",
+    "category": "hair_accessory",
+    "color": "green",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  }
+}

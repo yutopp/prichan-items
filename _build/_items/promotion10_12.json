@@ -1,0 +1,1725 @@
+{
+  "27994": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-028",
+    "name": "セーラーチア イエローリボントップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27994.jpg",
+    "category": "tops",
+    "color": "yellow",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 600
+  },
+  "27995": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-029",
+    "name": "セーラーチア イエローリボンスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27995.jpg",
+    "category": "bottoms",
+    "color": "light_blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 650
+  },
+  "27996": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-030",
+    "name": "セーラーチア イエローリボンシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27996.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 550
+  },
+  "27997": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-031",
+    "name": "セーラーチア イエローリボンヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/27997.jpg",
+    "category": "hair_accessory",
+    "color": "yellow",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 550
+  },
+  "28023": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-032",
+    "name": "ポップコーンショップ ブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28023.jpg",
+    "category": "tops",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 550
+  },
+  "28024": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-033",
+    "name": "ポップコーンショップ ブルーパンツ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28024.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 600
+  },
+  "28025": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-034",
+    "name": "ポップコーンショップ ブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28025.jpg",
+    "category": "shoes",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 650
+  },
+  "28026": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-035",
+    "name": "ポップコーンショップ ブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28026.jpg",
+    "category": "hair_accessory",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 550
+  },
+  "28195": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンファイル",
+      "りんか＆める"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-043",
+    "name": "スターダスト エメラルドグラデワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28195.jpg",
+    "category": "one_piece",
+    "color": "green",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "R",
+    "like": 1000
+  },
+  "28196": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、初回生産限定特典"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-033",
+    "name": "なかよしまくら ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28196.jpg",
+    "category": "パシャっとアイテム",
+    "color": "pink",
+    "brand": "PrismStone",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28203": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "りんか＆めるプリチケセット"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-034",
+    "name": "ディスコティックラブ トップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28203.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 800
+  },
+  "28204": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "りんか＆めるプリチケセット"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-035",
+    "name": "ディスコティックラブ スカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28204.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28205": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "りんか＆めるプリチケセット"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-036",
+    "name": "ディスコティックラブ シューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28205.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 750
+  },
+  "28206": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "りんか＆めるプリチケセット"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-037",
+    "name": "ディスコティックラブ ヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28206.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28207": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "りんか＆めるプリチケセット"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-039",
+    "name": "クラシックハート ライトブルートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28207.jpg",
+    "category": "tops",
+    "color": "light_blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "R",
+    "like": 600
+  },
+  "28208": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "りんか＆めるプリチケセット"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-040",
+    "name": "クラシックハート ライトブルースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28208.jpg",
+    "category": "bottoms",
+    "color": "light_blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  },
+  "28209": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "りんか＆めるプリチケセット"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-041",
+    "name": "クラシックハート ライトブルーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28209.jpg",
+    "category": "shoes",
+    "color": "light_blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "R",
+    "like": 650
+  },
+  "28210": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "りんか＆めるプリチケセット"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-042",
+    "name": "クラシックハート ライトブルーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28210.jpg",
+    "category": "hair_accessory",
+    "color": "light_blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "R",
+    "like": 550
+  },
+  "28211": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "りんか＆めるプリチケセット"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-038",
+    "name": "ピンキー フェザーせんす",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28211.jpg",
+    "category": "パシャっとアイテム",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28212": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット",
+      "キラッとアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-061",
+    "name": "シャイニースター コスモストップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28212.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "PR",
+    "like": 830
+  },
+  "28213": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット",
+      "キラッとアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-062",
+    "name": "シャイニースター コスモススカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28213.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "PR",
+    "like": 780
+  },
+  "28214": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット",
+      "キラッとアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-063",
+    "name": "シャイニースター コスモスシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28214.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "PR",
+    "like": 730
+  },
+  "28215": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット",
+      "キラッとアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-064",
+    "name": "シャイニースター コスモスヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28215.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "PR",
+    "like": 730
+  },
+  "28216": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-065",
+    "name": "スイートハニー ミラクル☆キラッツキラッとワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28216.jpg",
+    "category": "one_piece",
+    "color": "yellow",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "KR",
+    "like": 1570
+  },
+  "28217": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-066",
+    "name": "スイートハニー ミラクル☆キラッツキラッとシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28217.jpg",
+    "category": "shoes",
+    "color": "yellow",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "KR",
+    "like": 750
+  },
+  "28218": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-067",
+    "name": "スイートハニー ミラクル☆キラッツキラッとヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28218.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "KR",
+    "like": 750
+  },
+  "28219": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-068",
+    "name": "ガールズエール ミラクル☆キラッツキラッとワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28219.jpg",
+    "category": "one_piece",
+    "color": "blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "KR",
+    "like": 1570
+  },
+  "28220": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-069",
+    "name": "ガールズエール ミラクル☆キラッツキラッとシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28220.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "KR",
+    "like": 750
+  },
+  "28221": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-070",
+    "name": "ガールズエール ミラクル☆キラッツキラッとヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28221.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "KR",
+    "like": 750
+  },
+  "28222": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-071",
+    "name": "シークレットアリス ミラクル☆キラッツキラッとワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28222.jpg",
+    "category": "one_piece",
+    "color": "light_blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "KR",
+    "like": 1570
+  },
+  "28223": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-072",
+    "name": "シークレットアリス ミラクル☆キラッツキラッとシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28223.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "KR",
+    "like": 750
+  },
+  "28224": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-073",
+    "name": "シークレットアリス ミラクル☆キラッツキラッとヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28224.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "KR",
+    "like": 750
+  },
+  "28225": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-074",
+    "name": "ドーリーワルツ メルティックスターキラッとワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28225.jpg",
+    "category": "one_piece",
+    "color": "purple",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "KR",
+    "like": 1570
+  },
+  "28226": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-075",
+    "name": "ドーリーワルツ メルティックスターキラッとシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28226.jpg",
+    "category": "shoes",
+    "color": "purple",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "KR",
+    "like": 750
+  },
+  "28227": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-076",
+    "name": "ドーリーワルツ メルティックスターキラッとヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28227.jpg",
+    "category": "hair_accessory",
+    "color": "purple",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "KR",
+    "like": 750
+  },
+  "28228": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-077",
+    "name": "ロマンスビート メルティックスターキラッとワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28228.jpg",
+    "category": "one_piece",
+    "color": "red",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "KR",
+    "like": 1570
+  },
+  "28229": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-078",
+    "name": "ロマンスビート メルティックスターキラッとシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28229.jpg",
+    "category": "shoes",
+    "color": "black",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "KR",
+    "like": 750
+  },
+  "28230": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-079",
+    "name": "ロマンスビート メルティックスターキラッとヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28230.jpg",
+    "category": "hair_accessory",
+    "color": "black",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "KR",
+    "like": 750
+  },
+  "28231": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-080",
+    "name": "ユニバースクイーン メルティックスターキラッとワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28231.jpg",
+    "category": "one_piece",
+    "color": "green",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "KR",
+    "like": 1570
+  },
+  "28232": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-081",
+    "name": "ユニバースクイーン メルティックスターキラッとシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28232.jpg",
+    "category": "shoes",
+    "color": "green",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "KR",
+    "like": 750
+  },
+  "28233": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-082",
+    "name": "ユニバースクイーン メルティックスターキラッとヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28233.jpg",
+    "category": "hair_accessory",
+    "color": "black",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "KR",
+    "like": 750
+  },
+  "28234": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-083",
+    "name": "シャイニースター エメラルドトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28234.jpg",
+    "category": "tops",
+    "color": "green",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "PR",
+    "like": 830
+  },
+  "28235": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-084",
+    "name": "シャイニースター エメラルドスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28235.jpg",
+    "category": "bottoms",
+    "color": "green",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "PR",
+    "like": 780
+  },
+  "28236": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-085",
+    "name": "シャイニースター エメラルドシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28236.jpg",
+    "category": "shoes",
+    "color": "green",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "PR",
+    "like": 730
+  },
+  "28237": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリ☆チャンキャスト",
+      "アンジュDXセット・みらいDXセット、やってみたアプリセットキラッとオールスターVer.",
+      "やってみたアプリ連動"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-086",
+    "name": "シャイニースター エメラルドヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28237.jpg",
+    "category": "hair_accessory",
+    "color": "green",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "PR",
+    "like": 730
+  },
+  "28238": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-087",
+    "name": "セーラーマリン グリーントップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28238.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 800
+  },
+  "28239": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-088",
+    "name": "セーラーマリン グリーンスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28239.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28240": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-089",
+    "name": "セーラーマリン グリーンシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28240.jpg",
+    "category": "shoes",
+    "color": "green",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 750
+  },
+  "28241": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "YA-090",
+    "name": "セーラーマリン グリーンヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28241.jpg",
+    "category": "hair_accessory",
+    "color": "green",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28242": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-044",
+    "name": "ノーブルドール ラベンダートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28242.jpg",
+    "category": "tops",
+    "color": "purple",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 800
+  },
+  "28243": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-045",
+    "name": "ノーブルドール ラベンダースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28243.jpg",
+    "category": "bottoms",
+    "color": "purple",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28244": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-046",
+    "name": "ノーブルドール ラベンダーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28244.jpg",
+    "category": "shoes",
+    "color": "purple",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 750
+  },
+  "28245": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-047",
+    "name": "ノーブルドール ラベンダーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28245.jpg",
+    "category": "hair_accessory",
+    "color": "purple",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28246": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-048",
+    "name": "パンクキャット ブラウンピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28246.jpg",
+    "category": "tops",
+    "color": "brown",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 750
+  },
+  "28247": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-049",
+    "name": "パンクキャット ブラウンピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28247.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 800
+  },
+  "28248": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-050",
+    "name": "パンクキャット ブラウンピンクシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28248.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28249": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-051",
+    "name": "パンクキャット ブラウンピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28249.jpg",
+    "category": "hair_accessory",
+    "color": "brown",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28250": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-052",
+    "name": "ファンキーファー パープルトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28250.jpg",
+    "category": "tops",
+    "color": "orange",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28251": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-053",
+    "name": "ファンキーファー パープルスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28251.jpg",
+    "category": "bottoms",
+    "color": "purple",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 750
+  },
+  "28252": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-054",
+    "name": "ファンキーファー パープルピンクシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28252.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 800
+  },
+  "28253": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月発売",
+      "プリ☆チャンやってみたDXセット",
+      "ステージ2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-055",
+    "name": "ファンキーファー パープルヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28253.jpg",
+    "category": "hair_accessory",
+    "color": "purple",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28254": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "アプリケース",
+      "みらい＆スイートハニー"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-056",
+    "name": "わんわんポリス グリーントップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28254.jpg",
+    "category": "tops",
+    "color": "green",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 800
+  },
+  "28255": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "アプリケース",
+      "みらい＆スイートハニー"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-057",
+    "name": "わんわんポリス グリーンヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28255.jpg",
+    "category": "hair_accessory",
+    "color": "black",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28256": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "アプリケース",
+      "アンジュ＆プレシャスミューズ"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-058",
+    "name": "わんわんポリス グリーンスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28256.jpg",
+    "category": "bottoms",
+    "color": "green",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 750
+  },
+  "28257": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "アプリケース",
+      "アンジュ＆プレシャスミューズ"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "AM-059",
+    "name": "わんわんポリス グリーンシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28257.jpg",
+    "category": "shoes",
+    "color": "black",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28258": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-022",
+    "name": "にゃんにゃんにゃ～す ピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28258.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 800
+  },
+  "28259": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-023",
+    "name": "にゃんにゃんにゃ～す ピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28259.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 750
+  },
+  "28260": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-024",
+    "name": "にゃんにゃんにゃ～す ピンクブーツ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28260.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28261": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-025",
+    "name": "にゃんにゃんにゃ～す ピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28261.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28262": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-026",
+    "name": "? ?",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28262.jpg",
+    "category": "?",
+    "color": "?",
+    "brand": "?",
+    "type": "?",
+    "rarity": "?",
+    "like": null
+  },
+  "28263": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "プリチケコレクショングミ",
+      "vol.2"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "C-027",
+    "name": "? ?",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28263.jpg",
+    "category": "?",
+    "color": "?",
+    "brand": "?",
+    "type": "?",
+    "rarity": "?",
+    "like": null
+  },
+  "28264": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "キラッとプリ☆チャン公式ファンブックSEASON4（ふろく）"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-S-031",
+    "name": "ハロウィンマジカル パープルトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28264.jpg",
+    "category": "tops",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 750
+  },
+  "28265": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "キラッとプリ☆チャン公式ファンブックSEASON4（ふろく）"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-S-032",
+    "name": "ハロウィンマジカル パープルスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28265.jpg",
+    "category": "bottoms",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 800
+  },
+  "28266": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "キラッとプリ☆チャン公式ファンブックSEASON4（ふろく）"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-S-033",
+    "name": "ハロウィンマジカル パープルシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28266.jpg",
+    "category": "shoes",
+    "color": "yellow",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28267": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "キラッとプリ☆チャン公式ファンブックSEASON4（ふろく）"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-S-034",
+    "name": "ハロウィンマジカル パープルヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28267.jpg",
+    "category": "hair_accessory",
+    "color": "purple",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28268": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "ちゃお",
+      "2018年12月号、ちゃおデラックス１月号応募者全員サービス"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-S-036",
+    "name": "ホイップいちご ミントトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28268.jpg",
+    "category": "tops",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28269": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "ちゃお",
+      "2018年12月号、ちゃおデラックス１月号応募者全員サービス"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-S-037",
+    "name": "ホイップいちご ミントスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28269.jpg",
+    "category": "bottoms",
+    "color": "green",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 800
+  },
+  "28270": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "ちゃお",
+      "2018年12月号、ちゃおデラックス１月号応募者全員サービス"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-S-038",
+    "name": "ホイップいちご ミントシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28270.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 750
+  },
+  "28271": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "ちゃお",
+      "2018年12月号、ちゃおデラックス１月号応募者全員サービス"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-S-039",
+    "name": "ホイップいちご ミントヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28271.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28272": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "キラッとプリ☆チャン♪DVD/BD-BOX-1、2019年1月発売",
+      "キラッとプリ☆チャン♪DVD/BD-BOX-2、"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-020",
+    "name": "チョコホイップ クリームトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28272.jpg",
+    "category": "tops",
+    "color": "brown",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 800
+  },
+  "28273": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "キラッとプリ☆チャン♪DVD/BD-BOX-1、2019年1月発売",
+      "キラッとプリ☆チャン♪DVD/BD-BOX-2、"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-021",
+    "name": "チョコホイップ クリームスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28273.jpg",
+    "category": "bottoms",
+    "color": "brown",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 750
+  },
+  "28274": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "キラッとプリ☆チャン♪DVD/BD-BOX-1、2019年1月発売",
+      "キラッとプリ☆チャン♪DVD/BD-BOX-2、"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-022",
+    "name": "チョコホイップ クリームシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28274.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28275": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年10月発売",
+      "キラッとプリ☆チャン♪DVD/BD-BOX-1、2019年1月発売",
+      "キラッとプリ☆チャン♪DVD/BD-BOX-2、"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-023",
+    "name": "チョコホイップ クリームヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28275.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "28298": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月「あたり」でもらおう！限定キラチケキャンペーン"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-028",
+    "name": "ポップミラクル☆キラッツ グループキラッとワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28298.jpg",
+    "category": "one_piece",
+    "color": "light_blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "KR",
+    "like": 1900
+  },
+  "28300": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月「あたり」でもらおう！限定キラチケキャンペーン"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-030",
+    "name": "ポップミラクル☆キラッツ グループキラッとヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28300.jpg",
+    "category": "hair_accessory",
+    "color": "light_blue",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "KR",
+    "like": 900
+  },
+  "28305": {
+    "series": "プロモーション",
+    "filter": [
+      "2018年10月～12月",
+      "2018年11月「限定キラチケ＆ポケットプリチケファイル」プレゼントキャンペーン"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "P-027",
+    "name": "ゴシックフリル ナイトグリーントップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/28305.jpg",
+    "category": "tops",
+    "color": "green",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "PR",
+    "like": 950
+  }
+}

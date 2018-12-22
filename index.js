@@ -3,6 +3,11 @@ const jsdom = require("jsdom");
 const jquery = require("jquery");
 const fs = require("fs");
 const path = require("path")
+const itemDetail = require("./item-detail");
+
+const sleep = ms => {
+  return new Promise(resolve => setTimeout(resolve, ms));
+};
 
 const collectSeriesList = htmlString => {
   var seriesList = [];
@@ -282,6 +287,86 @@ const getAndSaveAllTemplates = async (titleFilter) => {
   return templatePaths;
 }
 
+const getAndSaveItems = async (templatePath, revision) => {
+  const b = path.basename(templatePath);
+  const filePath = path.join('_build', '_items', b);
+
+  const template = JSON.parse(fs.readFileSync(templatePath));
+  let items = (() => {
+    try {
+      return JSON.parse(fs.readFileSync(filePath));
+    } catch {
+      return {};
+    }
+  })();
+
+  for(const itemSpec of template) {
+    for(const i of itemSpec.itemNOs.keys()) {
+      const itemNO = itemSpec.itemNOs[i];
+
+      let item = items[itemNO];
+      if (item === undefined) {
+        console.log(`Downloading[${itemSpec.title}]... (${i + 1}/${itemSpec.itemNOs.length})`);
+
+        let detail = await itemDetail.getDetailFromWeb(itemNO);
+        item = Object.assign({
+          series: itemSpec.title,
+          filter: itemSpec.filter,
+          range: itemSpec.range,
+          _revision: revision,
+        }, detail);
+        items[itemNO] = item;
+
+        await sleep(500);
+      } else {
+        console.log(`Passed[${itemSpec.title}]! (${i + 1}/${itemSpec.itemNOs.length})`);
+
+        item._revision = revision;
+      }
+    }
+  };
+
+  let text = JSON.stringify(items, null, 2);
+  fs.writeFileSync(filePath, text);
+};
+
+const getAndSaveAllItems = async (revision) => {
+  const baseDir = path.join('_build', '_templates');
+  const jsonPaths = fs.readdirSync(baseDir).filter(p => p.match(/\.json$/) != null);
+  for(const p of jsonPaths) {
+    const jsonPath = path.join(baseDir, p);
+    await getAndSaveItems(jsonPath, revision);
+  }
+};
+
+const mergeAndSaveAllItems = () => {
+  const baseDir = path.join('_build', '_items');
+  const jsonPaths = fs.readdirSync(baseDir).filter(p => p.match(/\.json$/) != null);
+  const jsons = jsonPaths.map(p => {
+    const jsonPath = path.join(baseDir, p);
+    console.log(`Loading: ${jsonPath}`);
+
+    const json = fs.readFileSync(jsonPath);
+    return JSON.parse(json);
+  });
+  let items = new Map();
+
+  jsons.forEach(json => {
+    for(const itemNO of Object.keys(json)) {
+      const item = json[itemNO];
+      items.set(itemNO, Object.assign({
+        no: itemNO,
+      }, item));
+    }
+  });
+
+  const filePath = path.join('_build', 'items.json');
+  const text = JSON.stringify({
+    items: Array.from(items).map(assoc => assoc[1]),
+  }, null, 2);
+  fs.writeFileSync(filePath, text);
+};
+
 (async () => {
   /*const seriesList = await collectSeriesListFromWeb(["ブランド限定"]);
   console.log(seriesList);
@@ -289,5 +374,10 @@ const getAndSaveAllTemplates = async (titleFilter) => {
   const g = fs.readFileSync("b.js", "utf8");
   console.log(makeItemsTemplate("第5弾", f, g));
 */
-  await getAndSaveAllTemplates();
+  //await getAndSaveAllTemplates();
+
+  const revision = 0;
+  await getAndSaveAllItems(revision);
+
+  mergeAndSaveAllItems();
 })();

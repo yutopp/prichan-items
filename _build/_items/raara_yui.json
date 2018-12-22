@@ -1,0 +1,416 @@
+{
+  "70691": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/6",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-77",
+    "name": "ウィッシュリボン アイドルブラウスL",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70691.jpg",
+    "category": "tops",
+    "color": "light_blue",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70692": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/6",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-78",
+    "name": "ウィッシュリボン アイドルスカートL",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70692.jpg",
+    "category": "bottoms",
+    "color": "light_blue",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70693": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/6",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-79",
+    "name": "ウィッシュリボン アイドルブーツL",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70693.jpg",
+    "category": "shoes",
+    "color": "light_blue",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70694": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/6",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-80",
+    "name": "ウィッシュリボン アイドルヘアアクセL",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70694.jpg",
+    "category": "hair_accessory",
+    "color": "light_blue",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70695": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/6",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-81",
+    "name": "ドリームTR サイリウムワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70695.jpg",
+    "category": "one_piece",
+    "color": "white",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 1200
+  },
+  "70696": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/6",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-82",
+    "name": "ドリームTR サイリウムシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70696.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70697": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/6",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-83",
+    "name": "ドリームTR サイリウムヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70697.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70698": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-84",
+    "name": "ファンタジータイム サイリウムワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70698.jpg",
+    "category": "one_piece",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 1200
+  },
+  "70699": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-85",
+    "name": "ファンタジータイム サイリウムシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70699.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70700": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-86",
+    "name": "ファンタジータイム サイリウムヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70700.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70701": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-87",
+    "name": "ラビットハート ファンシートップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70701.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70702": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-88",
+    "name": "ラビットハート ファンシースカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70702.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70703": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-89",
+    "name": "ラビットハート ファンシーシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70703.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70704": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-90",
+    "name": "ラビットハート ファンシーヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70704.jpg",
+    "category": "hair_accessory",
+    "color": "light_blue",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70705": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/1/17",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-91",
+    "name": "SoLaMi♡SMILEチーム サイリウムワンピL",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70705.jpg",
+    "category": "one_piece",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 1200
+  },
+  "70706": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/1/17",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-92",
+    "name": "SoLaMi♡SMILEチーム サイリウムシューズL",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70706.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70707": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/1/17",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-93",
+    "name": "SoLaMi♡SMILEチーム サイリウムヘアアクセL",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70707.jpg",
+    "category": "hair_accessory",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70708": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/1/17",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-94",
+    "name": "マジカる☆スター ピンクトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70708.jpg",
+    "category": "tops",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70709": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/1/17",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-95",
+    "name": "マジカる☆スター ピンクスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70709.jpg",
+    "category": "bottoms",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70710": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/1/17",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-96",
+    "name": "マジカる☆スター ピンクシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70710.jpg",
+    "category": "shoes",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70711": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/1/17",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-97",
+    "name": "マジカる☆スター ピンクヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70711.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70712": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/6",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-98",
+    "name": "クマのぬいぐるみ ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70712.jpg",
+    "category": "pashatto_item",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70713": {
+    "series": "らぁら&ゆいチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2018/12/27",
+      "end": "2019/2/6"
+    },
+    "_revision": 0,
+    "id": "SL5-99",
+    "name": "プニコンのぬいぐるみ ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70713.jpg",
+    "category": "pashatto_item",
+    "color": "pink",
+    "brand": "",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  }
+}

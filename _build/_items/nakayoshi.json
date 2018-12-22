@@ -1,0 +1,128 @@
+{
+  "70187": {
+    "series": "なかよしチャンネル",
+    "filter": [
+      "なかよしチャンネル",
+      "みらい"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PCH2-77",
+    "name": "ラッキーステッキ ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70187.jpg",
+    "category": "pashatto_item",
+    "color": "blue",
+    "brand": "SweetHoney",
+    "type": "love",
+    "rarity": "R",
+    "like": 450
+  },
+  "70188": {
+    "series": "なかよしチャンネル",
+    "filter": [
+      "なかよしチャンネル",
+      "えも"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PCH2-78",
+    "name": "オレンジソーダ ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70188.jpg",
+    "category": "pashatto_item",
+    "color": "orange",
+    "brand": "GirlsYell",
+    "type": "pop",
+    "rarity": "R",
+    "like": 450
+  },
+  "70189": {
+    "series": "なかよしチャンネル",
+    "filter": [
+      "なかよしチャンネル",
+      "あんな"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PCH2-79",
+    "name": "そらいろウサギさん ぬいぐるみ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70189.jpg",
+    "category": "pashatto_item",
+    "color": "light_blue",
+    "brand": "DollyWaltz",
+    "type": "love",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70190": {
+    "series": "なかよしチャンネル",
+    "filter": [
+      "なかよしチャンネル",
+      "さら"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PCH2-80",
+    "name": "パープルローズ ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70190.jpg",
+    "category": "pashatto_item",
+    "color": "purple",
+    "brand": "RomanceBeat",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70347": {
+    "series": "なかよしチャンネル",
+    "filter": [
+      "なかよしチャンネル",
+      "りんか"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PCH3-87",
+    "name": "ブルークイーン ステッキ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70347.jpg",
+    "category": "pashatto_item",
+    "color": "blue",
+    "brand": "SecretAlice",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70458": {
+    "series": "なかよしチャンネル",
+    "filter": [
+      "なかよしチャンネル",
+      "める"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PCH4-95",
+    "name": "レッド フェザーせんす",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70458.jpg",
+    "category": "pashatto_item",
+    "color": "red",
+    "brand": "UniverseQueen",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70614": {
+    "series": "なかよしチャンネル",
+    "filter": [
+      "なかよしチャンネル",
+      "アンジュ"
+    ],
+    "range": null,
+    "_revision": 0,
+    "id": "PCH5-106",
+    "name": "クラシック ホワイトヴァイオリン",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70614.jpg",
+    "category": "pashatto_item",
+    "color": "white",
+    "brand": "PreciousMuse",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  }
+}
