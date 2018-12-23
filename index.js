@@ -351,18 +351,31 @@ const mergeAndSaveAllItems = () => {
   });
   let items = new Map();
 
+  let latestRevision = 0;
   jsons.forEach(json => {
     for(const itemNO of Object.keys(json)) {
       const item = json[itemNO];
       items.set(itemNO, Object.assign({
         no: itemNO,
       }, item));
+      if (item._revision > latestRevision) {
+        latestRevision = item._revision;
+      }
     }
+  });
+
+  let itemsList =
+      Array
+      .from(items)
+      .map(assoc => assoc[1])
+      .filter(item => item._revision >= latestRevision);
+  itemsList.forEach(item => {
+    delete item._revision;
   });
 
   const filePath = path.join('_build', 'items.json');
   const text = JSON.stringify({
-    items: Array.from(items).map(assoc => assoc[1]),
+    items: itemsList,
   }, null, 2);
   fs.writeFileSync(filePath, text);
 };
@@ -373,10 +386,10 @@ const mergeAndSaveAllItems = () => {
   const f = fs.readFileSync("b.html", "utf8");
   const g = fs.readFileSync("b.js", "utf8");
   console.log(makeItemsTemplate("第5弾", f, g));
-*/
-  //await getAndSaveAllTemplates();
+  */
+  await getAndSaveAllTemplates();
 
-  const revision = 0;
+  const revision = Math.round((new Date()).getTime() / 1000);
   await getAndSaveAllItems(revision);
 
   mergeAndSaveAllItems();
