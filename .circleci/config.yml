@@ -1,0 +1,48 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:11.4
+
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "package.json" }}
+          - v1-dependencies-
+
+      - run: yarn install
+
+      - save_cache:
+          paths:
+            - node_modules
+          key: v1-dependencies-{{ checksum "package.json" }}
+
+      - run:
+          command: |
+            git config user.email "yutopp+pri-auto@users.noreply.github.com"
+            git config user.name "pri-auto"
+
+      - run: node index.js
+
+      - run:
+          command: |
+            git add _build
+            git commit -m "[skip ci] Auto generated"
+
+      - run:
+          command: |
+            git status
+          when: on_fail
+
+      - add_ssh_keys:
+          fingerprints:
+            - "21:d9:ad:ce:2a:72:2f:be:99:41:96:d4:56:e2:de:5d"
+
+      - run:
+          command: |
+            git remote add upstream git@github.com:${CIRCLE_PROJECT_USERNAME}/${CIRCLE_PROJECT_REPONAME}.git
+            git push upstream ${CIRCLE_BRANCH}:${CIRCLE_BRANCH}
