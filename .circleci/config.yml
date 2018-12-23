@@ -29,9 +29,9 @@ jobs:
       - run: node index.js
 
       - run:
-        command: |
-          git add _build
-          git commit -m "[skip ci] Auto generated"
+          command: |
+            git add _build
+            git commit -m "[skip ci] Auto generated"
 
       - run:
           command: |
