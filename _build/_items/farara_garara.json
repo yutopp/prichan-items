@@ -1,0 +1,542 @@
+{
+  "70875": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/28",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-36",
+    "name": "アイドルウォッチ エメラルドドレス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70875.jpg",
+    "category": "one_piece",
+    "color": "green",
+    "brand": "",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 1200
+  },
+  "70876": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/28",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-37",
+    "name": "アイドルウォッチ エメラルドシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70876.jpg",
+    "category": "shoes",
+    "color": "gold",
+    "brand": "",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70877": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/28",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-38",
+    "name": "アイドルウォッチ エメラルドヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70877.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "",
+    "type": "pop",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70878": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/28",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-39",
+    "name": "ロイヤルファー リーフトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70878.jpg",
+    "category": "tops",
+    "color": "white",
+    "brand": "",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70879": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/28",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-40",
+    "name": "ロイヤルファー リーフスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70879.jpg",
+    "category": "bottoms",
+    "color": "green",
+    "brand": "",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70880": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/28",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-41",
+    "name": "ロイヤルファー リーフシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70880.jpg",
+    "category": "shoes",
+    "color": "green",
+    "brand": "",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70881": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/28",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-42",
+    "name": "ロイヤルファー リーフヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70881.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70882": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/7",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-43",
+    "name": "アイドルウォッチ タンザナイトワンピ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70882.jpg",
+    "category": "one_piece",
+    "color": "black",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 1200
+  },
+  "70883": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/7",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-44",
+    "name": "アイドルウォッチ タンザナイトシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70883.jpg",
+    "category": "shoes",
+    "color": "gold",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70884": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/7",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-45",
+    "name": "アイドルウォッチ タンザナイトヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70884.jpg",
+    "category": "hair_accessory",
+    "color": "black",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70885": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/7",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-46",
+    "name": "ロイヤルファー サルビアトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70885.jpg",
+    "category": "tops",
+    "color": "black",
+    "brand": "",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70886": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/7",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-47",
+    "name": "ロイヤルファー サルビアスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70886.jpg",
+    "category": "bottoms",
+    "color": "blue",
+    "brand": "",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70887": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/7",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-48",
+    "name": "ロイヤルファー サルビアシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70887.jpg",
+    "category": "shoes",
+    "color": "blue",
+    "brand": "",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70888": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/7",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-49",
+    "name": "ロイヤルファー サルビアヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70888.jpg",
+    "category": "hair_accessory",
+    "color": "black",
+    "brand": "",
+    "type": "cool",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70889": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-50",
+    "name": "タイムガーデン ブルーミングトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70889.jpg",
+    "category": "tops",
+    "color": "white",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70890": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-51",
+    "name": "タイムガーデン ブルーミングスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70890.jpg",
+    "category": "bottoms",
+    "color": "white",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70891": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-52",
+    "name": "タイムガーデン ブルーミングシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70891.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70892": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-53",
+    "name": "タイムガーデン ブルーミングヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70892.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70893": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-54",
+    "name": "タイムガーデン ファンタスティックトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70893.jpg",
+    "category": "tops",
+    "color": "black",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70894": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-55",
+    "name": "タイムガーデン ファンタスティックスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70894.jpg",
+    "category": "bottoms",
+    "color": "black",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70895": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-56",
+    "name": "タイムガーデン ファンタスティックシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70895.jpg",
+    "category": "shoes",
+    "color": "black",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70896": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-57",
+    "name": "タイムガーデン ファンタスティックヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70896.jpg",
+    "category": "hair_accessory",
+    "color": "black",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70897": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-58",
+    "name": "クロックモダン ホワイトグリーントップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70897.jpg",
+    "category": "tops",
+    "color": "white",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70898": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-59",
+    "name": "クロックモダン ホワイトグリーンスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70898.jpg",
+    "category": "bottoms",
+    "color": "white",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70899": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-60",
+    "name": "クロックモダン ホワイトグリーンシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70899.jpg",
+    "category": "shoes",
+    "color": "white",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70900": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/28",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-61",
+    "name": "クロックモダン ホワイトグリーンヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70900.jpg",
+    "category": "hair_accessory",
+    "color": "white",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70901": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-62",
+    "name": "クロックモダン ネイビーブラックトップス",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70901.jpg",
+    "category": "tops",
+    "color": "black",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 700
+  },
+  "70902": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-63",
+    "name": "クロックモダン ネイビーブラックスカート",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70902.jpg",
+    "category": "bottoms",
+    "color": "black",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  },
+  "70903": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/3/14",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-64",
+    "name": "クロックモダン ネイビーブラックシューズ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70903.jpg",
+    "category": "shoes",
+    "color": "black",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 650
+  },
+  "70904": {
+    "series": "ファララ＆ガァララチャンネル",
+    "filter": [],
+    "range": {
+      "begin": "2019/2/7",
+      "end": "2019/4/3"
+    },
+    "_revision": 1548374486,
+    "id": "SL6-65",
+    "name": "クロックモダン ネイビーブラックヘアアクセ",
+    "imageURI": "https://prichan.jp/resources/images/items/details/70904.jpg",
+    "category": "hair_accessory",
+    "color": "black",
+    "brand": "",
+    "type": "premium",
+    "rarity": "SR",
+    "like": 600
+  }
+}
