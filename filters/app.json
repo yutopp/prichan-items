@@ -1,0 +1,124 @@
+[
+  {
+    "name": "シリーズ",
+    "filters": [
+      {
+        "title": "第6弾",
+        "series": "第6弾",
+        "subCategories": [
+          {
+            "category": "2月チャンネル",
+            "query": ["2月チャンネル"]
+          }
+        ]
+      },
+      {
+        "title": "第5弾",
+        "series": "第5弾",
+        "subCategories": [
+          {
+            "category": "1月チャンネル",
+            "query": ["1月チャンネル"]
+          },
+          {
+            "category": "12月チャンネル",
+            "query": ["12月チャンネル"]
+          }
+        ]
+      },
+      {
+        "title": "第4弾",
+        "series": "第4弾",
+        "subCategories": [
+          {
+            "category": "11月チャンネル",
+            "query": ["11月チャンネル"]
+          },
+          {
+            "category": "10月チャンネル",
+            "query": ["10月チャンネル"]
+          }
+        ]
+      },
+      {
+        "title": "第3弾",
+        "series": "第3弾",
+        "subCategories": []
+      },
+      {
+        "title": "第2弾",
+        "series": "第2弾",
+        "subCategories": []
+      },
+      {
+        "title": "第1弾",
+        "series": "第1弾",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "name": "限定",
+    "filters": [
+      {
+        "title": "ブランド限定",
+        "series": "ブランド限定",
+        "subCategories": []
+      },
+      {
+        "title": "期間限定",
+        "series": "期間限定",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "name": "チャンネル",
+    "filters": [
+      {
+        "title": "なかよしチャンネル",
+        "series": "なかよしチャンネル",
+        "subCategories": []
+      },
+      {
+        "title": "セレクション",
+        "series": "セレクション",
+        "subCategories": []
+      },
+      {
+        "title": "らぁら&ゆい\nチャンネル",
+        "series": "らぁら&ゆいチャンネル",
+        "subCategories": []
+      },
+      {
+        "title": "ファララ＆ガァララ\nチャンネル",
+        "series": "ファララ＆ガァララチャンネル",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "name": "プロモーション",
+    "filters": [
+      {
+        "title": "プロモーション",
+        "series": "プロモーション",
+        "subCategories": [
+          {
+            "category": "2018年4月～6月",
+            "query": ["2018年4月～6月"]
+          },
+          {
+            "category": "2018年7月～9月",
+            "query": ["2018年7月～9月"]
+          },
+          {
+            "category": "2018年10月～12月",
+            "query": ["2018年10月～12月"]
+          }
+        ]
+      }
+
+    ]
+  }
+]
