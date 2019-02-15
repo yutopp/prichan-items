@@ -20129,6 +20129,741 @@
       "type": "love",
       "rarity": "R",
       "like": 450
+    },
+    {
+      "no": "70839",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-01",
+      "name": "パラダイス ドレス",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70839.jpg",
+      "category": "one_piece",
+      "color": "white",
+      "brand": "",
+      "type": "premium",
+      "rarity": "PR",
+      "like": 1610
+    },
+    {
+      "no": "70840",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-02",
+      "name": "パラダイス シューズ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70840.jpg",
+      "category": "shoes",
+      "color": "white",
+      "brand": "",
+      "type": "premium",
+      "rarity": "PR",
+      "like": 750
+    },
+    {
+      "no": "70841",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-03",
+      "name": "パラダイス ティアラ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70841.jpg",
+      "category": "hair_accessory",
+      "color": "white",
+      "brand": "",
+      "type": "premium",
+      "rarity": "PR",
+      "like": 750
+    },
+    {
+      "no": "70842",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-04",
+      "name": "スターリィ ライトパープルトップス",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70842.jpg",
+      "category": "tops",
+      "color": "purple",
+      "brand": "",
+      "type": "cool",
+      "rarity": "PR",
+      "like": 850
+    },
+    {
+      "no": "70843",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-05",
+      "name": "スターリィ ライトパープルスカート",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70843.jpg",
+      "category": "bottoms",
+      "color": "purple",
+      "brand": "",
+      "type": "cool",
+      "rarity": "PR",
+      "like": 800
+    },
+    {
+      "no": "70844",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-06",
+      "name": "スターリィ ライトパープルシューズ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70844.jpg",
+      "category": "shoes",
+      "color": "purple",
+      "brand": "",
+      "type": "cool",
+      "rarity": "PR",
+      "like": 750
+    },
+    {
+      "no": "70845",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-07",
+      "name": "スターリィ ライトパープルヘアアクセ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70845.jpg",
+      "category": "hair_accessory",
+      "color": "purple",
+      "brand": "",
+      "type": "cool",
+      "rarity": "PR",
+      "like": 750
+    },
+    {
+      "no": "70846",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-08",
+      "name": "ピュアプレミアム ウエディング",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70846.jpg",
+      "category": "one_piece",
+      "color": "white",
+      "brand": "",
+      "type": "premium",
+      "rarity": "SR",
+      "like": 1200
+    },
+    {
+      "no": "70847",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-09",
+      "name": "ピュアプレミアム ハイヒール",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70847.jpg",
+      "category": "shoes",
+      "color": "pink",
+      "brand": "",
+      "type": "premium",
+      "rarity": "SR",
+      "like": 600
+    },
+    {
+      "no": "70848",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-10",
+      "name": "クリスタルスノー プリンセストップス",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70848.jpg",
+      "category": "tops",
+      "color": "light_blue",
+      "brand": "",
+      "type": "love",
+      "rarity": "SR",
+      "like": 700
+    },
+    {
+      "no": "70849",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-11",
+      "name": "クリスタルスノー プリンセススカート",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70849.jpg",
+      "category": "bottoms",
+      "color": "light_blue",
+      "brand": "",
+      "type": "love",
+      "rarity": "SR",
+      "like": 650
+    },
+    {
+      "no": "70850",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-12",
+      "name": "クリスタルスノー プリンセスブーツ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70850.jpg",
+      "category": "shoes",
+      "color": "light_blue",
+      "brand": "",
+      "type": "love",
+      "rarity": "SR",
+      "like": 600
+    },
+    {
+      "no": "70851",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-13",
+      "name": "クリスタルスノー ヘアアクセ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70851.jpg",
+      "category": "hair_accessory",
+      "color": "light_blue",
+      "brand": "",
+      "type": "love",
+      "rarity": "SR",
+      "like": 600
+    },
+    {
+      "no": "70852",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-14",
+      "name": "トライアングル クーレストワンピ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70852.jpg",
+      "category": "one_piece",
+      "color": "purple",
+      "brand": "",
+      "type": "cool",
+      "rarity": "SR",
+      "like": 1200
+    },
+    {
+      "no": "70853",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-15",
+      "name": "トライアングル クーレストシューズ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70853.jpg",
+      "category": "shoes",
+      "color": "purple",
+      "brand": "",
+      "type": "cool",
+      "rarity": "SR",
+      "like": 600
+    },
+    {
+      "no": "70854",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-16",
+      "name": "トライアングル クーレストヘアアクセ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70854.jpg",
+      "category": "hair_accessory",
+      "color": "purple",
+      "brand": "",
+      "type": "cool",
+      "rarity": "SR",
+      "like": 600
+    },
+    {
+      "no": "70855",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-17",
+      "name": "じゅんぱくのつばさ トップス",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70855.jpg",
+      "category": "tops",
+      "color": "white",
+      "brand": "",
+      "type": "love",
+      "rarity": "SR",
+      "like": 650
+    },
+    {
+      "no": "70856",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-18",
+      "name": "じゅんぱくのつばさ スカート",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70856.jpg",
+      "category": "bottoms",
+      "color": "white",
+      "brand": "",
+      "type": "love",
+      "rarity": "SR",
+      "like": 700
+    },
+    {
+      "no": "70857",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-19",
+      "name": "じゅんぱくのつばさ シューズ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70857.jpg",
+      "category": "shoes",
+      "color": "white",
+      "brand": "",
+      "type": "love",
+      "rarity": "SR",
+      "like": 600
+    },
+    {
+      "no": "70858",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-20",
+      "name": "じゅんぱくのつばさ ヘアアクセ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70858.jpg",
+      "category": "hair_accessory",
+      "color": "white",
+      "brand": "",
+      "type": "love",
+      "rarity": "SR",
+      "like": 600
+    },
+    {
+      "no": "70859",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-21",
+      "name": "フレッシュ ピンクベアトップ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70859.jpg",
+      "category": "tops",
+      "color": "pink",
+      "brand": "",
+      "type": "premium",
+      "rarity": "R",
+      "like": 550
+    },
+    {
+      "no": "70860",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-22",
+      "name": "フレッシュ ピンクパニエ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70860.jpg",
+      "category": "bottoms",
+      "color": "pink",
+      "brand": "",
+      "type": "premium",
+      "rarity": "R",
+      "like": 450
+    },
+    {
+      "no": "70861",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-23",
+      "name": "フレッシュ ピンクブーツ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70861.jpg",
+      "category": "shoes",
+      "color": "white",
+      "brand": "",
+      "type": "premium",
+      "rarity": "R",
+      "like": 500
+    },
+    {
+      "no": "70862",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-24",
+      "name": "シャイニーリボン ベスト",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70862.jpg",
+      "category": "tops",
+      "color": "pink",
+      "brand": "",
+      "type": "premium",
+      "rarity": "R",
+      "like": 550
+    },
+    {
+      "no": "70863",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-25",
+      "name": "シャイニーリボン スカート",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70863.jpg",
+      "category": "bottoms",
+      "color": "pink",
+      "brand": "",
+      "type": "premium",
+      "rarity": "R",
+      "like": 500
+    },
+    {
+      "no": "70864",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-26",
+      "name": "ラインリボン ロングブーツ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70864.jpg",
+      "category": "shoes",
+      "color": "black",
+      "brand": "",
+      "type": "premium",
+      "rarity": "R",
+      "like": 450
+    },
+    {
+      "no": "70865",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-27",
+      "name": "ハピラキ ヘアアクセ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70865.jpg",
+      "category": "hair_accessory",
+      "color": "black",
+      "brand": "",
+      "type": "premium",
+      "rarity": "R",
+      "like": 450
+    },
+    {
+      "no": "70866",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-28",
+      "name": "もぎたて オレンジパーカ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70866.jpg",
+      "category": "tops",
+      "color": "orange",
+      "brand": "",
+      "type": "pop",
+      "rarity": "R",
+      "like": 550
+    },
+    {
+      "no": "70867",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-29",
+      "name": "もぎたて オレンジパンツ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70867.jpg",
+      "category": "bottoms",
+      "color": "orange",
+      "brand": "",
+      "type": "pop",
+      "rarity": "R",
+      "like": 500
+    },
+    {
+      "no": "70868",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-30",
+      "name": "もぎたて オレンジシューズ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70868.jpg",
+      "category": "shoes",
+      "color": "orange",
+      "brand": "",
+      "type": "pop",
+      "rarity": "R",
+      "like": 450
+    },
+    {
+      "no": "70869",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-31",
+      "name": "もぎたてオレンジ ヘアアクセ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70869.jpg",
+      "category": "hair_accessory",
+      "color": "orange",
+      "brand": "",
+      "type": "pop",
+      "rarity": "R",
+      "like": 450
+    },
+    {
+      "no": "70870",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-32",
+      "name": "リトルローズ きらびやかトップス",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70870.jpg",
+      "category": "tops",
+      "color": "light_blue",
+      "brand": "",
+      "type": "love",
+      "rarity": "R",
+      "like": 450
+    },
+    {
+      "no": "70871",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-33",
+      "name": "リトルローズ きらびやかスカート",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70871.jpg",
+      "category": "bottoms",
+      "color": "light_blue",
+      "brand": "",
+      "type": "love",
+      "rarity": "R",
+      "like": 550
+    },
+    {
+      "no": "70872",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-34",
+      "name": "リトルローズ きらびやかシューズ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70872.jpg",
+      "category": "shoes",
+      "color": "light_blue",
+      "brand": "",
+      "type": "love",
+      "rarity": "R",
+      "like": 500
+    },
+    {
+      "no": "70873",
+      "series": "セレクション",
+      "filter": [
+        "プリティーリズム・プリパラ復刻",
+        "「あいらとアンジュ」セレクション"
+      ],
+      "range": {
+        "begin": "2019/2/21",
+        "end": "2019/4/3"
+      },
+      "id": "SL6-35",
+      "name": "リトルローズ きらびやかヘアアクセ",
+      "imageURI": "https://prichan.jp/resources/images/items/details/70873.jpg",
+      "category": "hair_accessory",
+      "color": "light_blue",
+      "brand": "",
+      "type": "love",
+      "rarity": "R",
+      "like": 450
     }
   ]
 }
