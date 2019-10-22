@@ -5,7 +5,7 @@
   "author": "yutopp <yutopp@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.0",
     "jsdom": "^13.0.0",
     "request-promise": "^4.2.2"
   },
